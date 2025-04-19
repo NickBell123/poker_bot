@@ -1,0 +1,3735 @@
+﻿PokerStars Hand #255648513409: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level I (10/20) - 2025/04/08 17:35:34 WET [2025/04/08 12:35:34 ET]
+Table '3877252684 1' 9-max Seat #2 is the button
+Seat 2: bl-mamba132 (1500 in chips) 
+Seat 3: nickyb123 (1500 in chips) 
+Seat 5: nideck (1500 in chips) 
+Seat 6: tomyta1710 (1500 in chips) 
+Seat 7: viniciusvft (1500 in chips) 
+Seat 9: wttomi (1500 in chips) 
+bl-mamba132: posts the ante 3
+nickyb123: posts the ante 3
+nideck: posts the ante 3
+tomyta1710: posts the ante 3
+viniciusvft: posts the ante 3
+wttomi: posts the ante 3
+nickyb123: posts small blind 10
+nideck: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nickyb123 [2c Kh]
+tomyta1710: folds 
+viniciusvft: raises 20 to 40
+wttomi: folds 
+bl-mamba132: folds 
+nickyb123: folds 
+nideck: calls 20
+*** FLOP *** [5c 6h 7h]
+nideck: checks 
+viniciusvft: checks 
+*** TURN *** [5c 6h 7h] [3s]
+nideck: bets 51
+LucaoPAP is disconnected 
+viniciusvft: calls 51
+*** RIVER *** [5c 6h 7h 3s] [4h]
+nideck: bets 139
+viniciusvft: calls 139
+*** SHOW DOWN ***
+nideck: shows [Qd 8c] (a straight, Four to Eight)
+viniciusvft: mucks hand 
+nideck collected 488 from pot
+*** SUMMARY ***
+Total pot 488 | Rake 0 
+Board [5c 6h 7h 3s 4h]
+Seat 2: bl-mamba132 (button) folded before Flop (didn't bet)
+Seat 3: nickyb123 (small blind) folded before Flop
+Seat 5: nideck (big blind) showed [Qd 8c] and won (488) with a straight, Four to Eight
+Seat 6: tomyta1710 folded before Flop (didn't bet)
+Seat 7: viniciusvft mucked [Ad 6c]
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648528964: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level I (10/20) - 2025/04/08 17:36:45 WET [2025/04/08 12:36:45 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 1: LucaoPAP (1500 in chips) 
+Seat 2: bl-mamba132 (1497 in chips) 
+Seat 3: nickyb123 (1487 in chips) 
+Seat 5: nideck (1755 in chips) 
+Seat 6: tomyta1710 (1497 in chips) 
+Seat 7: viniciusvft (1267 in chips) 
+Seat 9: wttomi (1497 in chips) 
+LucaoPAP: posts the ante 3
+bl-mamba132: posts the ante 3
+nickyb123: posts the ante 3
+nideck: posts the ante 3
+tomyta1710: posts the ante 3
+viniciusvft: posts the ante 3
+wttomi: posts the ante 3
+nideck: posts small blind 10
+tomyta1710: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nickyb123 [9h 5d]
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: folds 
+nideck: raises 40 to 60
+tomyta1710: calls 40
+*** FLOP *** [3s 4s Ks]
+nideck: checks 
+tomyta1710: checks 
+*** TURN *** [3s 4s Ks] [2d]
+nideck: checks 
+tomyta1710: checks 
+*** RIVER *** [3s 4s Ks 2d] [5s]
+nideck: bets 93
+tomyta1710: folds 
+Uncalled bet (93) returned to nideck
+nideck collected 141 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 141 | Rake 0 
+Board [3s 4s Ks 2d 5s]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 (button) folded before Flop (didn't bet)
+Seat 5: nideck (small blind) collected (141)
+Seat 6: tomyta1710 (big blind) folded on the River
+Seat 7: viniciusvft folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648543300: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level I (10/20) - 2025/04/08 17:37:51 WET [2025/04/08 12:37:51 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 1: LucaoPAP (1497 in chips) 
+Seat 2: bl-mamba132 (1494 in chips) 
+Seat 3: nickyb123 (1484 in chips) 
+Seat 5: nideck (1833 in chips) 
+Seat 6: tomyta1710 (1434 in chips) 
+Seat 7: viniciusvft (1264 in chips) 
+Seat 9: wttomi (1494 in chips) 
+LucaoPAP: posts the ante 3
+bl-mamba132: posts the ante 3
+nickyb123: posts the ante 3
+nideck: posts the ante 3
+tomyta1710: posts the ante 3
+viniciusvft: posts the ante 3
+wttomi: posts the ante 3
+tomyta1710: posts small blind 10
+viniciusvft: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nickyb123 [2c Kd]
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: folds 
+nideck: folds 
+tomyta1710: raises 40 to 60
+viniciusvft: raises 120 to 180
+tomyta1710: calls 120
+*** FLOP *** [6d 5c 4d]
+tomyta1710: checks 
+viniciusvft: bets 80
+tomyta1710: folds 
+Uncalled bet (80) returned to viniciusvft
+viniciusvft collected 381 from pot
+viniciusvft: doesn't show hand 
+*** SUMMARY ***
+Total pot 381 | Rake 0 
+Board [6d 5c 4d]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 5: nideck (button) folded before Flop (didn't bet)
+Seat 6: tomyta1710 (small blind) folded on the Flop
+Seat 7: viniciusvft (big blind) collected (381)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648553958: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level I (10/20) - 2025/04/08 17:38:40 WET [2025/04/08 12:38:40 ET]
+Table '3877252684 1' 9-max Seat #6 is the button
+Seat 1: LucaoPAP (1494 in chips) 
+Seat 2: bl-mamba132 (1491 in chips) 
+Seat 3: nickyb123 (1481 in chips) 
+Seat 5: nideck (1830 in chips) 
+Seat 6: tomyta1710 (1251 in chips) 
+Seat 7: viniciusvft (1462 in chips) 
+Seat 9: wttomi (1491 in chips) 
+LucaoPAP: posts the ante 3
+bl-mamba132: posts the ante 3
+nickyb123: posts the ante 3
+nideck: posts the ante 3
+tomyta1710: posts the ante 3
+viniciusvft: posts the ante 3
+wttomi: posts the ante 3
+viniciusvft: posts small blind 10
+wttomi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nickyb123 [2s Qs]
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: folds 
+nideck: raises 20 to 40
+tomyta1710: folds 
+viniciusvft: folds 
+wttomi: calls 20
+*** FLOP *** [9s Kd Kh]
+wttomi: checks 
+nideck: checks 
+*** TURN *** [9s Kd Kh] [2c]
+wttomi: checks 
+nideck: bets 73
+wttomi: folds 
+Uncalled bet (73) returned to nideck
+nideck collected 111 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 111 | Rake 0 
+Board [9s Kd Kh 2c]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 5: nideck collected (111)
+Seat 6: tomyta1710 (button) folded before Flop (didn't bet)
+Seat 7: viniciusvft (small blind) folded before Flop
+Seat 9: wttomi (big blind) folded on the Turn
+
+
+
+PokerStars Hand #255648568648: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level I (10/20) - 2025/04/08 17:39:47 WET [2025/04/08 12:39:47 ET]
+Table '3877252684 1' 9-max Seat #7 is the button
+Seat 1: LucaoPAP (1491 in chips) 
+Seat 2: bl-mamba132 (1488 in chips) 
+Seat 3: nickyb123 (1478 in chips) 
+Seat 5: nideck (1898 in chips) 
+Seat 6: tomyta1710 (1248 in chips) 
+Seat 7: viniciusvft (1449 in chips) 
+Seat 9: wttomi (1448 in chips) 
+LucaoPAP: posts the ante 3
+bl-mamba132: posts the ante 3
+nickyb123: posts the ante 3
+nideck: posts the ante 3
+tomyta1710: posts the ante 3
+viniciusvft: posts the ante 3
+wttomi: posts the ante 3
+wttomi: posts small blind 10
+LucaoPAP: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nickyb123 [Ad Kc]
+bl-mamba132: folds 
+nickyb123: raises 60 to 80
+nideck: folds 
+tomyta1710: folds 
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: folds 
+Uncalled bet (60) returned to nickyb123
+nickyb123 collected 71 from pot
+nickyb123: doesn't show hand 
+*** SUMMARY ***
+Total pot 71 | Rake 0 
+Seat 1: LucaoPAP (big blind) folded before Flop
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 collected (71)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: tomyta1710 folded before Flop (didn't bet)
+Seat 7: viniciusvft (button) folded before Flop (didn't bet)
+Seat 9: wttomi (small blind) folded before Flop
+
+
+
+PokerStars Hand #255648574952: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level I (10/20) - 2025/04/08 17:40:16 WET [2025/04/08 12:40:16 ET]
+Table '3877252684 1' 9-max Seat #9 is the button
+Seat 1: LucaoPAP (1468 in chips) 
+Seat 2: bl-mamba132 (1485 in chips) 
+Seat 3: nickyb123 (1526 in chips) 
+Seat 5: nideck (1895 in chips) 
+Seat 6: tomyta1710 (1245 in chips) 
+Seat 7: viniciusvft (1446 in chips) 
+Seat 9: wttomi (1435 in chips) 
+LucaoPAP: posts the ante 3
+bl-mamba132: posts the ante 3
+nickyb123: posts the ante 3
+nideck: posts the ante 3
+tomyta1710: posts the ante 3
+viniciusvft: posts the ante 3
+wttomi: posts the ante 3
+LucaoPAP: posts small blind 10
+bl-mamba132: posts big blind 20
+*** HOLE CARDS ***
+Dealt to nickyb123 [Qc 8s]
+nickyb123: folds 
+nideck: folds 
+tomyta1710: raises 30 to 50
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: folds 
+Uncalled bet (30) returned to tomyta1710
+tomyta1710 collected 71 from pot
+tomyta1710: doesn't show hand 
+*** SUMMARY ***
+Total pot 71 | Rake 0 
+Seat 1: LucaoPAP (small blind) folded before Flop
+Seat 2: bl-mamba132 (big blind) folded before Flop
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: tomyta1710 collected (71)
+Seat 7: viniciusvft folded before Flop (didn't bet)
+Seat 9: wttomi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648582392: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level II (15/30) - 2025/04/08 17:40:50 WET [2025/04/08 12:40:50 ET]
+Table '3877252684 1' 9-max Seat #1 is the button
+Seat 1: LucaoPAP (1455 in chips) 
+Seat 2: bl-mamba132 (1462 in chips) 
+Seat 3: nickyb123 (1523 in chips) 
+Seat 5: nideck (1892 in chips) 
+Seat 6: tomyta1710 (1293 in chips) 
+Seat 7: viniciusvft (1443 in chips) 
+Seat 9: wttomi (1432 in chips) 
+LucaoPAP: posts the ante 4
+bl-mamba132: posts the ante 4
+nickyb123: posts the ante 4
+nideck: posts the ante 4
+tomyta1710: posts the ante 4
+viniciusvft: posts the ante 4
+wttomi: posts the ante 4
+bl-mamba132: posts small blind 15
+nickyb123: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nickyb123 [Ts 6c]
+nideck: folds 
+tomyta1710: folds 
+viniciusvft: raises 30 to 60
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: folds 
+Uncalled bet (30) returned to viniciusvft
+viniciusvft collected 103 from pot
+viniciusvft: doesn't show hand 
+*** SUMMARY ***
+Total pot 103 | Rake 0 
+Seat 1: LucaoPAP (button) folded before Flop (didn't bet)
+Seat 2: bl-mamba132 (small blind) folded before Flop
+Seat 3: nickyb123 (big blind) folded before Flop
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: tomyta1710 folded before Flop (didn't bet)
+Seat 7: viniciusvft collected (103)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648588755: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level II (15/30) - 2025/04/08 17:41:19 WET [2025/04/08 12:41:19 ET]
+Table '3877252684 1' 9-max Seat #2 is the button
+Seat 1: LucaoPAP (1451 in chips) 
+Seat 2: bl-mamba132 (1443 in chips) 
+Seat 3: nickyb123 (1489 in chips) 
+Seat 5: nideck (1888 in chips) 
+Seat 6: tomyta1710 (1289 in chips) 
+Seat 7: viniciusvft (1512 in chips) 
+Seat 9: wttomi (1428 in chips) 
+LucaoPAP: posts the ante 4
+bl-mamba132: posts the ante 4
+nickyb123: posts the ante 4
+nideck: posts the ante 4
+tomyta1710: posts the ante 4
+viniciusvft: posts the ante 4
+wttomi: posts the ante 4
+nickyb123: posts small blind 15
+nideck: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nickyb123 [Ah Js]
+tomyta1710: folds 
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: calls 30
+nickyb123: raises 60 to 90
+BillyMurphy1377 is disconnected 
+nideck: folds 
+bl-mamba132: calls 60
+*** FLOP *** [7c Qd 3d]
+nickyb123: bets 120
+bl-mamba132: folds 
+Uncalled bet (120) returned to nickyb123
+nickyb123 collected 238 from pot
+nickyb123: doesn't show hand 
+*** SUMMARY ***
+Total pot 238 | Rake 0 
+Board [7c Qd 3d]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 (button) folded on the Flop
+Seat 3: nickyb123 (small blind) collected (238)
+Seat 5: nideck (big blind) folded before Flop
+Seat 6: tomyta1710 folded before Flop (didn't bet)
+Seat 7: viniciusvft folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648596898: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level II (15/30) - 2025/04/08 17:41:56 WET [2025/04/08 12:41:56 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 1: LucaoPAP (1447 in chips) 
+Seat 2: bl-mamba132 (1349 in chips) 
+Seat 3: nickyb123 (1633 in chips) 
+Seat 4: BillyMurphy1377 (1500 in chips) out of hand (moved from another table into small blind)
+Seat 5: nideck (1854 in chips) 
+Seat 6: tomyta1710 (1285 in chips) 
+Seat 7: viniciusvft (1508 in chips) 
+Seat 9: wttomi (1424 in chips) 
+BillyMurphy1377 will be allowed to play after the button
+LucaoPAP: posts the ante 4
+bl-mamba132: posts the ante 4
+nickyb123: posts the ante 4
+nideck: posts the ante 4
+tomyta1710: posts the ante 4
+viniciusvft: posts the ante 4
+wttomi: posts the ante 4
+nideck: posts small blind 15
+tomyta1710: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nickyb123 [Th 2h]
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: folds 
+nideck: raises 60 to 90
+tomyta1710: folds 
+Uncalled bet (60) returned to nideck
+nideck collected 88 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 88 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 (button) folded before Flop (didn't bet)
+Seat 5: nideck (small blind) collected (88)
+Seat 6: tomyta1710 (big blind) folded before Flop
+Seat 7: viniciusvft folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648609223: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level II (15/30) - 2025/04/08 17:42:51 WET [2025/04/08 12:42:51 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 1: LucaoPAP (1443 in chips) 
+Seat 2: bl-mamba132 (1345 in chips) 
+Seat 3: nickyb123 (1629 in chips) 
+Seat 4: BillyMurphy1377 (1500 in chips) 
+Seat 5: nideck (1908 in chips) 
+Seat 6: tomyta1710 (1251 in chips) 
+Seat 7: viniciusvft (1504 in chips) 
+Seat 9: wttomi (1420 in chips) 
+LucaoPAP: posts the ante 4
+bl-mamba132: posts the ante 4
+nickyb123: posts the ante 4
+BillyMurphy1377: posts the ante 4
+nideck: posts the ante 4
+tomyta1710: posts the ante 4
+viniciusvft: posts the ante 4
+wttomi: posts the ante 4
+tomyta1710: posts small blind 15
+viniciusvft: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nickyb123 [Th Tc]
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: raises 60 to 90
+BillyMurphy1377: calls 90
+nideck: folds 
+tomyta1710: raises 1157 to 1247 and is all-in
+viniciusvft: folds 
+nickyb123: raises 378 to 1625 and is all-in
+BillyMurphy1377: folds 
+Uncalled bet (378) returned to nickyb123
+*** FLOP *** [9s Jh 5c]
+*** TURN *** [9s Jh 5c] [9d]
+*** RIVER *** [9s Jh 5c 9d] [9h]
+*** SHOW DOWN ***
+tomyta1710: shows [Ac Ks] (three of a kind, Nines)
+nickyb123: shows [Th Tc] (a full house, Nines full of Tens)
+nickyb123 collected 2646 from pot
+tomyta1710 finished the tournament
+*** SUMMARY ***
+Total pot 2646 | Rake 0 
+Board [9s Jh 5c 9d 9h]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 showed [Th Tc] and won (2646) with a full house, Nines full of Tens
+Seat 4: BillyMurphy1377 folded before Flop
+Seat 5: nideck (button) folded before Flop (didn't bet)
+Seat 6: tomyta1710 (small blind) showed [Ac Ks] and lost with three of a kind, Nines
+Seat 7: viniciusvft (big blind) folded before Flop
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648624882: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level II (15/30) - 2025/04/08 17:44:02 WET [2025/04/08 12:44:02 ET]
+Table '3877252684 1' 9-max Seat #7 is the button
+Seat 1: LucaoPAP (1439 in chips) 
+Seat 2: bl-mamba132 (1341 in chips) 
+Seat 3: nickyb123 (3024 in chips) 
+Seat 4: BillyMurphy1377 (1406 in chips) 
+Seat 5: nideck (1904 in chips) 
+Seat 7: viniciusvft (1470 in chips) 
+Seat 9: wttomi (1416 in chips) 
+LucaoPAP: posts the ante 4
+bl-mamba132: posts the ante 4
+nickyb123: posts the ante 4
+BillyMurphy1377: posts the ante 4
+nideck: posts the ante 4
+viniciusvft: posts the ante 4
+wttomi: posts the ante 4
+wttomi: posts small blind 15
+LucaoPAP: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nickyb123 [3s 9h]
+bl-mamba132: folds 
+nickyb123: folds 
+BillyMurphy1377: folds 
+nideck: folds 
+viniciusvft: folds 
+wttomi: folds 
+Uncalled bet (15) returned to LucaoPAP
+LucaoPAP collected 58 from pot
+LucaoPAP: doesn't show hand 
+*** SUMMARY ***
+Total pot 58 | Rake 0 
+Seat 1: LucaoPAP (big blind) collected (58)
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: BillyMurphy1377 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 7: viniciusvft (button) folded before Flop (didn't bet)
+Seat 9: wttomi (small blind) folded before Flop
+
+
+
+PokerStars Hand #255648632042: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level II (15/30) - 2025/04/08 17:44:34 WET [2025/04/08 12:44:34 ET]
+Table '3877252684 1' 9-max Seat #9 is the button
+Seat 1: LucaoPAP (1478 in chips) 
+Seat 2: bl-mamba132 (1337 in chips) 
+Seat 3: nickyb123 (3020 in chips) 
+Seat 4: BillyMurphy1377 (1402 in chips) 
+Seat 5: nideck (1900 in chips) 
+Seat 7: viniciusvft (1466 in chips) 
+Seat 9: wttomi (1397 in chips) 
+LucaoPAP: posts the ante 4
+bl-mamba132: posts the ante 4
+nickyb123: posts the ante 4
+BillyMurphy1377: posts the ante 4
+nideck: posts the ante 4
+viniciusvft: posts the ante 4
+wttomi: posts the ante 4
+LucaoPAP: posts small blind 15
+bl-mamba132: posts big blind 30
+*** HOLE CARDS ***
+Dealt to nickyb123 [Kd 4d]
+nickyb123: folds 
+BillyMurphy1377: raises 60 to 90
+nideck: folds 
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: calls 60
+*** FLOP *** [5d Td 4s]
+bl-mamba132: checks 
+BillyMurphy1377: bets 120
+bl-mamba132: calls 120
+*** TURN *** [5d Td 4s] [8s]
+bl-mamba132: checks 
+BillyMurphy1377: bets 120
+bl-mamba132: calls 120
+*** RIVER *** [5d Td 4s 8s] [8d]
+bl-mamba132: checks 
+BillyMurphy1377: bets 120
+bl-mamba132: folds 
+Uncalled bet (120) returned to BillyMurphy1377
+BillyMurphy1377 collected 703 from pot
+BillyMurphy1377: doesn't show hand 
+*** SUMMARY ***
+Total pot 703 | Rake 0 
+Board [5d Td 4s 8s 8d]
+Seat 1: LucaoPAP (small blind) folded before Flop
+Seat 2: bl-mamba132 (big blind) folded on the River
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: BillyMurphy1377 collected (703)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 7: viniciusvft folded before Flop (didn't bet)
+Seat 9: wttomi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648650193: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level III (25/50) - 2025/04/08 17:45:56 WET [2025/04/08 12:45:56 ET]
+Table '3877252684 1' 9-max Seat #1 is the button
+Seat 1: LucaoPAP (1459 in chips) 
+Seat 2: bl-mamba132 (1003 in chips) 
+Seat 3: nickyb123 (3016 in chips) 
+Seat 4: BillyMurphy1377 (1771 in chips) 
+Seat 5: nideck (1896 in chips) 
+Seat 7: viniciusvft (1462 in chips) 
+Seat 9: wttomi (1393 in chips) 
+LucaoPAP: posts the ante 6
+bl-mamba132: posts the ante 6
+nickyb123: posts the ante 6
+BillyMurphy1377: posts the ante 6
+nideck: posts the ante 6
+viniciusvft: posts the ante 6
+wttomi: posts the ante 6
+bl-mamba132: posts small blind 25
+nickyb123: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nickyb123 [Qc 7d]
+BillyMurphy1377: folds 
+nideck: folds 
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: raises 947 to 997 and is all-in
+nickyb123: folds 
+Uncalled bet (947) returned to bl-mamba132
+bl-mamba132 collected 142 from pot
+bl-mamba132: doesn't show hand 
+*** SUMMARY ***
+Total pot 142 | Rake 0 
+Seat 1: LucaoPAP (button) folded before Flop (didn't bet)
+Seat 2: bl-mamba132 (small blind) collected (142)
+Seat 3: nickyb123 (big blind) folded before Flop
+Seat 4: BillyMurphy1377 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 7: viniciusvft folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648657557: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level III (25/50) - 2025/04/08 17:46:29 WET [2025/04/08 12:46:29 ET]
+Table '3877252684 1' 9-max Seat #2 is the button
+Seat 1: LucaoPAP (1453 in chips) 
+Seat 2: bl-mamba132 (1089 in chips) 
+Seat 3: nickyb123 (2960 in chips) 
+Seat 4: BillyMurphy1377 (1765 in chips) 
+Seat 5: nideck (1890 in chips) 
+Seat 7: viniciusvft (1456 in chips) 
+Seat 9: wttomi (1387 in chips) 
+LucaoPAP: posts the ante 6
+bl-mamba132: posts the ante 6
+nickyb123: posts the ante 6
+BillyMurphy1377: posts the ante 6
+nideck: posts the ante 6
+viniciusvft: posts the ante 6
+wttomi: posts the ante 6
+nickyb123: posts small blind 25
+BillyMurphy1377: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nickyb123 [Td 4s]
+nideck: folds 
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: folds 
+Uncalled bet (25) returned to BillyMurphy1377
+BillyMurphy1377 collected 92 from pot
+BillyMurphy1377: doesn't show hand 
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 (button) folded before Flop (didn't bet)
+Seat 3: nickyb123 (small blind) folded before Flop
+Seat 4: BillyMurphy1377 (big blind) collected (92)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 7: viniciusvft folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648663381: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level III (25/50) - 2025/04/08 17:46:55 WET [2025/04/08 12:46:55 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 1: LucaoPAP (1447 in chips) 
+Seat 2: bl-mamba132 (1083 in chips) 
+Seat 3: nickyb123 (2929 in chips) 
+Seat 4: BillyMurphy1377 (1826 in chips) 
+Seat 5: nideck (1884 in chips) 
+Seat 7: viniciusvft (1450 in chips) 
+Seat 9: wttomi (1381 in chips) 
+LucaoPAP: posts the ante 6
+bl-mamba132: posts the ante 6
+nickyb123: posts the ante 6
+BillyMurphy1377: posts the ante 6
+nideck: posts the ante 6
+viniciusvft: posts the ante 6
+wttomi: posts the ante 6
+BillyMurphy1377: posts small blind 25
+nideck: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nickyb123 [8h 5d]
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: folds 
+BillyMurphy1377: raises 50 to 100
+nideck: raises 175 to 275
+BillyMurphy1377: calls 175
+*** FLOP *** [Ts 6d 7h]
+BillyMurphy1377: checks 
+nideck: bets 148
+BillyMurphy1377: calls 148
+*** TURN *** [Ts 6d 7h] [8d]
+BillyMurphy1377: checks 
+nideck: bets 436
+BillyMurphy1377: calls 436
+*** RIVER *** [Ts 6d 7h 8d] [4d]
+BillyMurphy1377: checks 
+nideck: checks 
+*** SHOW DOWN ***
+BillyMurphy1377: shows [Js 9d] (a straight, Seven to Jack)
+nideck: mucks hand 
+BillyMurphy1377 collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | Rake 0 
+Board [Ts 6d 7h 8d 4d]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 (button) folded before Flop (didn't bet)
+Seat 4: BillyMurphy1377 (small blind) showed [Js 9d] and won (1760) with a straight, Seven to Jack
+Seat 5: nideck (big blind) mucked [3s As]
+Seat 7: viniciusvft folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648683338: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level III (25/50) - 2025/04/08 17:48:25 WET [2025/04/08 12:48:25 ET]
+Table '3877252684 1' 9-max Seat #4 is the button
+Seat 1: LucaoPAP (1441 in chips) 
+Seat 2: bl-mamba132 (1077 in chips) 
+Seat 3: nickyb123 (2923 in chips) 
+Seat 4: BillyMurphy1377 (2721 in chips) 
+Seat 5: nideck (1019 in chips) 
+Seat 7: viniciusvft (1444 in chips) 
+Seat 9: wttomi (1375 in chips) 
+LucaoPAP: posts the ante 6
+bl-mamba132: posts the ante 6
+nickyb123: posts the ante 6
+BillyMurphy1377: posts the ante 6
+nideck: posts the ante 6
+viniciusvft: posts the ante 6
+wttomi: posts the ante 6
+nideck: posts small blind 25
+viniciusvft: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nickyb123 [Td Kh]
+wttomi: raises 75 to 125
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: folds 
+BillyMurphy1377: calls 125
+nideck: calls 100
+viniciusvft: folds 
+*** FLOP *** [Qd 8c 4c]
+nideck: checks 
+wttomi: checks 
+BillyMurphy1377: checks 
+*** TURN *** [Qd 8c 4c] [2c]
+nideck: checks 
+wttomi: bets 200
+BillyMurphy1377: calls 200
+nideck: folds 
+*** RIVER *** [Qd 8c 4c 2c] [5h]
+wttomi: checks 
+BillyMurphy1377: checks 
+*** SHOW DOWN ***
+wttomi: shows [Jd Ac] (high card Ace)
+BillyMurphy1377: shows [8s 8d] (three of a kind, Eights)
+BillyMurphy1377 collected 867 from pot
+*** SUMMARY ***
+Total pot 867 | Rake 0 
+Board [Qd 8c 4c 2c 5h]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: BillyMurphy1377 (button) showed [8s 8d] and won (867) with three of a kind, Eights
+Seat 5: nideck (small blind) folded on the Turn
+Seat 7: viniciusvft (big blind) folded before Flop
+Seat 9: wttomi showed [Jd Ac] and lost with high card Ace
+
+
+
+PokerStars Hand #255648701674: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level III (25/50) - 2025/04/08 17:49:47 WET [2025/04/08 12:49:47 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 1: LucaoPAP (1435 in chips) 
+Seat 2: bl-mamba132 (1071 in chips) 
+Seat 3: nickyb123 (2917 in chips) 
+Seat 4: BillyMurphy1377 (3257 in chips) 
+Seat 5: nideck (888 in chips) 
+Seat 7: viniciusvft (1388 in chips) 
+Seat 9: wttomi (1044 in chips) 
+LucaoPAP: posts the ante 6
+bl-mamba132: posts the ante 6
+nickyb123: posts the ante 6
+BillyMurphy1377: posts the ante 6
+nideck: posts the ante 6
+viniciusvft: posts the ante 6
+wttomi: posts the ante 6
+viniciusvft: posts small blind 25
+wttomi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to nickyb123 [6d 8s]
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: folds 
+BillyMurphy1377: folds 
+nideck: raises 50 to 100
+viniciusvft: folds 
+wttomi: raises 938 to 1038 and is all-in
+nideck: folds 
+Uncalled bet (938) returned to wttomi
+wttomi collected 267 from pot
+wttomi: doesn't show hand 
+*** SUMMARY ***
+Total pot 267 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: BillyMurphy1377 folded before Flop (didn't bet)
+Seat 5: nideck (button) folded before Flop
+Seat 7: viniciusvft (small blind) folded before Flop
+Seat 9: wttomi (big blind) collected (267)
+
+
+
+PokerStars Hand #255648713783: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IV (40/80) - 2025/04/08 17:50:41 WET [2025/04/08 12:50:41 ET]
+Table '3877252684 1' 9-max Seat #7 is the button
+Seat 1: LucaoPAP (1429 in chips) 
+Seat 2: bl-mamba132 (1065 in chips) 
+Seat 3: nickyb123 (2911 in chips) 
+Seat 4: BillyMurphy1377 (3251 in chips) 
+Seat 5: nideck (782 in chips) 
+Seat 6: Nowme1221112 (1500 in chips) 
+Seat 7: viniciusvft (1357 in chips) 
+Seat 9: wttomi (1205 in chips) 
+LucaoPAP: posts the ante 10
+bl-mamba132: posts the ante 10
+nickyb123: posts the ante 10
+BillyMurphy1377: posts the ante 10
+nideck: posts the ante 10
+Nowme1221112: posts the ante 10
+viniciusvft: posts the ante 10
+wttomi: posts the ante 10
+wttomi: posts small blind 40
+LucaoPAP: posts big blind 80
+*** HOLE CARDS ***
+Dealt to nickyb123 [4c 8s]
+bl-mamba132: raises 80 to 160
+nickyb123: folds 
+BillyMurphy1377: calls 160
+nideck: folds 
+Nowme1221112: folds 
+viniciusvft: calls 160
+wttomi: folds 
+LucaoPAP: calls 80
+*** FLOP *** [As Th 8h]
+LucaoPAP: checks 
+bl-mamba132: bets 895 and is all-in
+BillyMurphy1377: calls 895
+viniciusvft: folds 
+LucaoPAP: folds 
+*** TURN *** [As Th 8h] [Ac]
+*** RIVER *** [As Th 8h Ac] [Ts]
+*** SHOW DOWN ***
+bl-mamba132: shows [Ah 9c] (a full house, Aces full of Tens)
+BillyMurphy1377: shows [Kh Qh] (two pair, Aces and Tens)
+bl-mamba132 collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | Rake 0 
+Board [As Th 8h Ac Ts]
+Seat 1: LucaoPAP (big blind) folded on the Flop
+Seat 2: bl-mamba132 showed [Ah 9c] and won (2550) with a full house, Aces full of Tens
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: BillyMurphy1377 showed [Kh Qh] and lost with two pair, Aces and Tens
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: Nowme1221112 folded before Flop (didn't bet)
+Seat 7: viniciusvft (button) folded on the Flop
+Seat 9: wttomi (small blind) folded before Flop
+
+
+
+PokerStars Hand #255648726855: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IV (40/80) - 2025/04/08 17:51:39 WET [2025/04/08 12:51:39 ET]
+Table '3877252684 1' 9-max Seat #9 is the button
+Seat 1: LucaoPAP (1259 in chips) 
+Seat 2: bl-mamba132 (2550 in chips) 
+Seat 3: nickyb123 (2901 in chips) 
+Seat 4: BillyMurphy1377 (2186 in chips) 
+Seat 5: nideck (772 in chips) 
+Seat 6: Nowme1221112 (1490 in chips) 
+Seat 7: viniciusvft (1187 in chips) 
+Seat 9: wttomi (1155 in chips) 
+LucaoPAP: posts the ante 10
+bl-mamba132: posts the ante 10
+nickyb123: posts the ante 10
+BillyMurphy1377: posts the ante 10
+nideck: posts the ante 10
+Nowme1221112: posts the ante 10
+viniciusvft: posts the ante 10
+wttomi: posts the ante 10
+LucaoPAP: posts small blind 40
+bl-mamba132: posts big blind 80
+*** HOLE CARDS ***
+Dealt to nickyb123 [Kc 2s]
+nickyb123: folds 
+BillyMurphy1377: folds 
+nideck: folds 
+Nowme1221112: folds 
+viniciusvft: raises 80 to 160
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: calls 80
+*** FLOP *** [9h 6d 4s]
+bl-mamba132: checks 
+viniciusvft: bets 145
+bl-mamba132: folds 
+Uncalled bet (145) returned to viniciusvft
+viniciusvft collected 440 from pot
+viniciusvft: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [9h 6d 4s]
+Seat 1: LucaoPAP (small blind) folded before Flop
+Seat 2: bl-mamba132 (big blind) folded on the Flop
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: BillyMurphy1377 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: Nowme1221112 folded before Flop (didn't bet)
+Seat 7: viniciusvft collected (440)
+Seat 9: wttomi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648740516: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IV (40/80) - 2025/04/08 17:52:40 WET [2025/04/08 12:52:40 ET]
+Table '3877252684 1' 9-max Seat #1 is the button
+Seat 1: LucaoPAP (1209 in chips) 
+Seat 2: bl-mamba132 (2380 in chips) 
+Seat 3: nickyb123 (2891 in chips) 
+Seat 4: BillyMurphy1377 (2176 in chips) 
+Seat 5: nideck (762 in chips) 
+Seat 6: Nowme1221112 (1480 in chips) 
+Seat 7: viniciusvft (1457 in chips) 
+Seat 9: wttomi (1145 in chips) 
+LucaoPAP: posts the ante 10
+bl-mamba132: posts the ante 10
+nickyb123: posts the ante 10
+BillyMurphy1377: posts the ante 10
+nideck: posts the ante 10
+Nowme1221112: posts the ante 10
+viniciusvft: posts the ante 10
+wttomi: posts the ante 10
+bl-mamba132: posts small blind 40
+nickyb123: posts big blind 80
+*** HOLE CARDS ***
+Dealt to nickyb123 [6c 3c]
+BillyMurphy1377: folds 
+nideck: folds 
+Nowme1221112: calls 80
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: raises 240 to 320
+bl-mamba132: folds 
+nickyb123: folds 
+Nowme1221112: calls 240
+*** FLOP *** [5s 3s Ad]
+Nowme1221112: checks 
+LucaoPAP: bets 879 and is all-in
+Nowme1221112: folds 
+Uncalled bet (879) returned to LucaoPAP
+LucaoPAP collected 840 from pot
+LucaoPAP: doesn't show hand 
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [5s 3s Ad]
+Seat 1: LucaoPAP (button) collected (840)
+Seat 2: bl-mamba132 (small blind) folded before Flop
+Seat 3: nickyb123 (big blind) folded before Flop
+Seat 4: BillyMurphy1377 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: Nowme1221112 folded on the Flop
+Seat 7: viniciusvft folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648754670: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IV (40/80) - 2025/04/08 17:53:45 WET [2025/04/08 12:53:45 ET]
+Table '3877252684 1' 9-max Seat #2 is the button
+Seat 1: LucaoPAP (1719 in chips) 
+Seat 2: bl-mamba132 (2330 in chips) 
+Seat 3: nickyb123 (2801 in chips) 
+Seat 4: BillyMurphy1377 (2166 in chips) 
+Seat 5: nideck (752 in chips) 
+Seat 6: Nowme1221112 (1150 in chips) 
+Seat 7: viniciusvft (1447 in chips) 
+Seat 9: wttomi (1135 in chips) 
+LucaoPAP: posts the ante 10
+bl-mamba132: posts the ante 10
+nickyb123: posts the ante 10
+BillyMurphy1377: posts the ante 10
+nideck: posts the ante 10
+Nowme1221112: posts the ante 10
+viniciusvft: posts the ante 10
+wttomi: posts the ante 10
+nickyb123: posts small blind 40
+BillyMurphy1377: posts big blind 80
+*** HOLE CARDS ***
+Dealt to nickyb123 [Qc 5d]
+nideck: folds 
+Nowme1221112: calls 80
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: calls 80
+nickyb123: calls 40
+BillyMurphy1377: checks 
+*** FLOP *** [Ad 3d 8c]
+nickyb123: checks 
+BillyMurphy1377: checks 
+Nowme1221112: checks 
+bl-mamba132: checks 
+*** TURN *** [Ad 3d 8c] [Jh]
+nickyb123: checks 
+BillyMurphy1377: bets 160
+Nowme1221112: folds 
+bl-mamba132: calls 160
+nickyb123: folds 
+*** RIVER *** [Ad 3d 8c Jh] [4d]
+BillyMurphy1377: checks 
+bl-mamba132: bets 80
+BillyMurphy1377: calls 80
+*** SHOW DOWN ***
+bl-mamba132: shows [Ks Ts] (high card Ace)
+BillyMurphy1377: shows [2c 3c] (a pair of Threes)
+BillyMurphy1377 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [Ad 3d 8c Jh 4d]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 (button) showed [Ks Ts] and lost with high card Ace
+Seat 3: nickyb123 (small blind) folded on the Turn
+Seat 4: BillyMurphy1377 (big blind) showed [2c 3c] and won (880) with a pair of Threes
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: Nowme1221112 folded on the Turn
+Seat 7: viniciusvft folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648771981: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IV (40/80) - 2025/04/08 17:55:04 WET [2025/04/08 12:55:04 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 1: LucaoPAP (1709 in chips) 
+Seat 2: bl-mamba132 (2000 in chips) 
+Seat 3: nickyb123 (2711 in chips) 
+Seat 4: BillyMurphy1377 (2716 in chips) 
+Seat 5: nideck (742 in chips) 
+Seat 6: Nowme1221112 (1060 in chips) 
+Seat 7: viniciusvft (1437 in chips) 
+Seat 9: wttomi (1125 in chips) 
+LucaoPAP: posts the ante 10
+bl-mamba132: posts the ante 10
+nickyb123: posts the ante 10
+BillyMurphy1377: posts the ante 10
+nideck: posts the ante 10
+Nowme1221112: posts the ante 10
+viniciusvft: posts the ante 10
+wttomi: posts the ante 10
+BillyMurphy1377: posts small blind 40
+nideck: posts big blind 80
+*** HOLE CARDS ***
+Dealt to nickyb123 [Kc 8h]
+Nowme1221112: raises 80 to 160
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: folds 
+BillyMurphy1377: folds 
+nideck: folds 
+Uncalled bet (80) returned to Nowme1221112
+Nowme1221112 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 (button) folded before Flop (didn't bet)
+Seat 4: BillyMurphy1377 (small blind) folded before Flop
+Seat 5: nideck (big blind) folded before Flop
+Seat 6: Nowme1221112 collected (280)
+Seat 7: viniciusvft folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648775883: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IV (40/80) - 2025/04/08 17:55:25 WET [2025/04/08 12:55:25 ET]
+Table '3877252684 1' 9-max Seat #4 is the button
+Seat 1: LucaoPAP (1699 in chips) 
+Seat 2: bl-mamba132 (1990 in chips) 
+Seat 3: nickyb123 (2701 in chips) 
+Seat 4: BillyMurphy1377 (2666 in chips) 
+Seat 5: nideck (652 in chips) 
+Seat 6: Nowme1221112 (1250 in chips) 
+Seat 7: viniciusvft (1427 in chips) 
+Seat 9: wttomi (1115 in chips) 
+LucaoPAP: posts the ante 10
+bl-mamba132: posts the ante 10
+nickyb123: posts the ante 10
+BillyMurphy1377: posts the ante 10
+nideck: posts the ante 10
+Nowme1221112: posts the ante 10
+viniciusvft: posts the ante 10
+wttomi: posts the ante 10
+nideck: posts small blind 40
+Nowme1221112: posts big blind 80
+*** HOLE CARDS ***
+Dealt to nickyb123 [Ts Qh]
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: calls 80
+nickyb123: folds 
+BillyMurphy1377: folds 
+nideck: calls 40
+Nowme1221112: checks 
+*** FLOP *** [6h 7s Qc]
+nideck: checks 
+Nowme1221112: checks 
+bl-mamba132: checks 
+*** TURN *** [6h 7s Qc] [Th]
+nideck: checks 
+Nowme1221112: checks 
+bl-mamba132: checks 
+*** RIVER *** [6h 7s Qc Th] [Tc]
+nideck: checks 
+Nowme1221112: bets 320
+bl-mamba132: folds 
+nideck: folds 
+Uncalled bet (320) returned to Nowme1221112
+Nowme1221112 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [6h 7s Qc Th Tc]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 folded on the River
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: BillyMurphy1377 (button) folded before Flop (didn't bet)
+Seat 5: nideck (small blind) folded on the River
+Seat 6: Nowme1221112 (big blind) collected (320)
+Seat 7: viniciusvft folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648785370: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level V (60/120) - 2025/04/08 17:56:23 WET [2025/04/08 12:56:23 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 1: LucaoPAP (1689 in chips) 
+Seat 2: bl-mamba132 (1900 in chips) 
+Seat 3: nickyb123 (2691 in chips) 
+Seat 4: BillyMurphy1377 (2656 in chips) 
+Seat 5: nideck (562 in chips) 
+Seat 6: Nowme1221112 (1480 in chips) 
+Seat 7: viniciusvft (1417 in chips) 
+Seat 9: wttomi (1105 in chips) 
+LucaoPAP: posts the ante 15
+bl-mamba132: posts the ante 15
+nickyb123: posts the ante 15
+BillyMurphy1377: posts the ante 15
+nideck: posts the ante 15
+Nowme1221112: posts the ante 15
+viniciusvft: posts the ante 15
+wttomi: posts the ante 15
+Nowme1221112: posts small blind 60
+viniciusvft: posts big blind 120
+*** HOLE CARDS ***
+Dealt to nickyb123 [7h Ah]
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: raises 240 to 360
+BillyMurphy1377: folds 
+nideck: folds 
+Nowme1221112: folds 
+viniciusvft: calls 240
+*** FLOP *** [Qd 9d 5s]
+viniciusvft: checks 
+nickyb123: bets 450
+viniciusvft: folds 
+Uncalled bet (450) returned to nickyb123
+nickyb123 collected 900 from pot
+nickyb123: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [Qd 9d 5s]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 collected (900)
+Seat 4: BillyMurphy1377 folded before Flop (didn't bet)
+Seat 5: nideck (button) folded before Flop (didn't bet)
+Seat 6: Nowme1221112 (small blind) folded before Flop
+Seat 7: viniciusvft (big blind) folded on the Flop
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648791726: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level V (60/120) - 2025/04/08 17:57:02 WET [2025/04/08 12:57:02 ET]
+Table '3877252684 1' 9-max Seat #6 is the button
+Seat 1: LucaoPAP (1674 in chips) 
+Seat 2: bl-mamba132 (1885 in chips) 
+Seat 3: nickyb123 (3216 in chips) 
+Seat 4: BillyMurphy1377 (2641 in chips) 
+Seat 5: nideck (547 in chips) 
+Seat 6: Nowme1221112 (1405 in chips) 
+Seat 7: viniciusvft (1042 in chips) 
+Seat 9: wttomi (1090 in chips) 
+LucaoPAP: posts the ante 15
+bl-mamba132: posts the ante 15
+nickyb123: posts the ante 15
+BillyMurphy1377: posts the ante 15
+nideck: posts the ante 15
+Nowme1221112: posts the ante 15
+viniciusvft: posts the ante 15
+wttomi: posts the ante 15
+viniciusvft: posts small blind 60
+wttomi: posts big blind 120
+*** HOLE CARDS ***
+Dealt to nickyb123 [Kd 2d]
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: folds 
+BillyMurphy1377: folds 
+nideck: raises 412 to 532 and is all-in
+Nowme1221112: folds 
+viniciusvft: calls 472
+wttomi: folds 
+*** FLOP *** [2s Qd Jc]
+*** TURN *** [2s Qd Jc] [6s]
+*** RIVER *** [2s Qd Jc 6s] [Th]
+*** SHOW DOWN ***
+viniciusvft: shows [Ks Kc] (a pair of Kings)
+nideck: shows [Td Jh] (two pair, Jacks and Tens)
+nideck collected 1304 from pot
+*** SUMMARY ***
+Total pot 1304 | Rake 0 
+Board [2s Qd Jc 6s Th]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: BillyMurphy1377 folded before Flop (didn't bet)
+Seat 5: nideck showed [Td Jh] and won (1304) with two pair, Jacks and Tens
+Seat 6: Nowme1221112 (button) folded before Flop (didn't bet)
+Seat 7: viniciusvft (small blind) showed [Ks Kc] and lost with a pair of Kings
+Seat 9: wttomi (big blind) folded before Flop
+
+
+
+PokerStars Hand #255648797311: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level V (60/120) - 2025/04/08 17:57:36 WET [2025/04/08 12:57:36 ET]
+Table '3877252684 1' 9-max Seat #7 is the button
+Seat 1: LucaoPAP (1659 in chips) 
+Seat 2: bl-mamba132 (1870 in chips) 
+Seat 3: nickyb123 (3201 in chips) 
+Seat 5: nideck (1304 in chips) 
+Seat 6: Nowme1221112 (1390 in chips) 
+Seat 7: viniciusvft (495 in chips) 
+Seat 9: wttomi (955 in chips) 
+LucaoPAP: posts the ante 15
+bl-mamba132: posts the ante 15
+nickyb123: posts the ante 15
+nideck: posts the ante 15
+Nowme1221112: posts the ante 15
+viniciusvft: posts the ante 15
+wttomi: posts the ante 15
+wttomi: posts small blind 60
+LucaoPAP: posts big blind 120
+*** HOLE CARDS ***
+Dealt to nickyb123 [3c Kd]
+bl-mamba132: folds 
+nickyb123: folds 
+nideck: folds 
+Nowme1221112: folds 
+viniciusvft: folds 
+wttomi: raises 820 to 940 and is all-in
+LucaoPAP: folds 
+Uncalled bet (820) returned to wttomi
+wttomi collected 345 from pot
+wttomi: doesn't show hand 
+*** SUMMARY ***
+Total pot 345 | Rake 0 
+Seat 1: LucaoPAP (big blind) folded before Flop
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: Nowme1221112 folded before Flop (didn't bet)
+Seat 7: viniciusvft (button) folded before Flop (didn't bet)
+Seat 9: wttomi (small blind) collected (345)
+
+
+
+PokerStars Hand #255648802526: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level V (60/120) - 2025/04/08 17:58:08 WET [2025/04/08 12:58:08 ET]
+Table '3877252684 1' 9-max Seat #9 is the button
+Seat 1: LucaoPAP (1524 in chips) 
+Seat 2: bl-mamba132 (1855 in chips) 
+Seat 3: nickyb123 (3186 in chips) 
+Seat 5: nideck (1289 in chips) 
+Seat 6: Nowme1221112 (1375 in chips) 
+Seat 7: viniciusvft (480 in chips) 
+Seat 9: wttomi (1165 in chips) 
+LucaoPAP: posts the ante 15
+bl-mamba132: posts the ante 15
+nickyb123: posts the ante 15
+nideck: posts the ante 15
+Nowme1221112: posts the ante 15
+viniciusvft: posts the ante 15
+wttomi: posts the ante 15
+LucaoPAP: posts small blind 60
+bl-mamba132: posts big blind 120
+*** HOLE CARDS ***
+Dealt to nickyb123 [Kc Kd]
+nickyb123: raises 120 to 240
+nideck: folds 
+Nowme1221112: folds 
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: folds 
+Uncalled bet (120) returned to nickyb123
+nickyb123 collected 405 from pot
+nickyb123: doesn't show hand 
+*** SUMMARY ***
+Total pot 405 | Rake 0 
+Seat 1: LucaoPAP (small blind) folded before Flop
+Seat 2: bl-mamba132 (big blind) folded before Flop
+Seat 3: nickyb123 collected (405)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: Nowme1221112 folded before Flop (didn't bet)
+Seat 7: viniciusvft folded before Flop (didn't bet)
+Seat 9: wttomi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648805724: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level V (60/120) - 2025/04/08 17:58:28 WET [2025/04/08 12:58:28 ET]
+Table '3877252684 1' 9-max Seat #1 is the button
+Seat 1: LucaoPAP (1449 in chips) 
+Seat 2: bl-mamba132 (1720 in chips) 
+Seat 3: nickyb123 (3456 in chips) 
+Seat 5: nideck (1274 in chips) 
+Seat 6: Nowme1221112 (1360 in chips) 
+Seat 7: viniciusvft (465 in chips) 
+Seat 9: wttomi (1150 in chips) 
+LucaoPAP: posts the ante 15
+bl-mamba132: posts the ante 15
+nickyb123: posts the ante 15
+nideck: posts the ante 15
+Nowme1221112: posts the ante 15
+viniciusvft: posts the ante 15
+wttomi: posts the ante 15
+bl-mamba132: posts small blind 60
+nickyb123: posts big blind 120
+*** HOLE CARDS ***
+Dealt to nickyb123 [Qd 5d]
+nideck: folds 
+Nowme1221112: raises 405 to 525
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: raises 909 to 1434 and is all-in
+bl-mamba132: folds 
+nickyb123: folds 
+Nowme1221112: calls 820 and is all-in
+Uncalled bet (89) returned to LucaoPAP
+*** FLOP *** [Ac Qc 4c]
+*** TURN *** [Ac Qc 4c] [6c]
+*** RIVER *** [Ac Qc 4c 6c] [5s]
+*** SHOW DOWN ***
+Nowme1221112: shows [8d 8c] (a flush, Ace high)
+LucaoPAP: shows [Kc Kh] (a flush, Ace high - King higher)
+LucaoPAP collected 2975 from pot
+Nowme1221112 finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 2975 | Rake 0 
+Board [Ac Qc 4c 6c 5s]
+Seat 1: LucaoPAP (button) showed [Kc Kh] and won (2975) with a flush, Ace high
+Seat 2: bl-mamba132 (small blind) folded before Flop
+Seat 3: nickyb123 (big blind) folded before Flop
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: Nowme1221112 showed [8d 8c] and lost with a flush, Ace high
+Seat 7: viniciusvft folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648811824: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level V (60/120) - 2025/04/08 17:59:04 WET [2025/04/08 12:59:04 ET]
+Table '3877252684 1' 9-max Seat #2 is the button
+Seat 1: LucaoPAP (3064 in chips) 
+Seat 2: bl-mamba132 (1645 in chips) 
+Seat 3: nickyb123 (3321 in chips) 
+Seat 5: nideck (1259 in chips) 
+Seat 7: viniciusvft (450 in chips) 
+Seat 9: wttomi (1135 in chips) 
+LucaoPAP: posts the ante 15
+bl-mamba132: posts the ante 15
+nickyb123: posts the ante 15
+nideck: posts the ante 15
+viniciusvft: posts the ante 15
+wttomi: posts the ante 15
+nickyb123: posts small blind 60
+nideck: posts big blind 120
+*** HOLE CARDS ***
+Dealt to nickyb123 [8d 9s]
+viniciusvft: folds 
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: folds 
+Uncalled bet (60) returned to nideck
+nideck collected 210 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 (button) folded before Flop (didn't bet)
+Seat 3: nickyb123 (small blind) folded before Flop
+Seat 5: nideck (big blind) collected (210)
+Seat 7: viniciusvft folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648814976: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level V (60/120) - 2025/04/08 17:59:23 WET [2025/04/08 12:59:23 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 1: LucaoPAP (3049 in chips) 
+Seat 2: bl-mamba132 (1630 in chips) 
+Seat 3: nickyb123 (3246 in chips) 
+Seat 5: nideck (1394 in chips) 
+Seat 7: viniciusvft (435 in chips) 
+Seat 9: wttomi (1120 in chips) 
+LucaoPAP: posts the ante 15
+bl-mamba132: posts the ante 15
+nickyb123: posts the ante 15
+nideck: posts the ante 15
+viniciusvft: posts the ante 15
+wttomi: posts the ante 15
+nideck: posts small blind 60
+viniciusvft: posts big blind 120
+*** HOLE CARDS ***
+Dealt to nickyb123 [4d 5h]
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: folds 
+nideck: raises 1259 to 1379 and is all-in
+viniciusvft: folds 
+Uncalled bet (1259) returned to nideck
+nideck collected 330 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 (button) folded before Flop (didn't bet)
+Seat 5: nideck (small blind) collected (330)
+Seat 7: viniciusvft (big blind) folded before Flop
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648817385: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level V (60/120) - 2025/04/08 17:59:38 WET [2025/04/08 12:59:38 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 1: LucaoPAP (3034 in chips) 
+Seat 2: bl-mamba132 (1615 in chips) 
+Seat 3: nickyb123 (3231 in chips) 
+Seat 5: nideck (1589 in chips) 
+Seat 7: viniciusvft (300 in chips) 
+Seat 9: wttomi (1105 in chips) 
+LucaoPAP: posts the ante 15
+bl-mamba132: posts the ante 15
+nickyb123: posts the ante 15
+nideck: posts the ante 15
+viniciusvft: posts the ante 15
+wttomi: posts the ante 15
+viniciusvft: posts small blind 60
+wttomi: posts big blind 120
+*** HOLE CARDS ***
+Dealt to nickyb123 [7h 9c]
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: folds 
+nideck: raises 1454 to 1574 and is all-in
+viniciusvft: folds 
+wttomi: folds 
+Uncalled bet (1454) returned to nideck
+nideck collected 390 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 5: nideck (button) collected (390)
+Seat 7: viniciusvft (small blind) folded before Flop
+Seat 9: wttomi (big blind) folded before Flop
+
+
+
+PokerStars Hand #255648824243: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level V (60/120) - 2025/04/08 18:00:18 WET [2025/04/08 13:00:18 ET]
+Table '3877252684 1' 9-max Seat #7 is the button
+Seat 1: LucaoPAP (3019 in chips) 
+Seat 2: bl-mamba132 (1600 in chips) 
+Seat 3: nickyb123 (3216 in chips) 
+Seat 5: nideck (1844 in chips) 
+Seat 7: viniciusvft (225 in chips) 
+Seat 9: wttomi (970 in chips) 
+LucaoPAP: posts the ante 15
+bl-mamba132: posts the ante 15
+nickyb123: posts the ante 15
+nideck: posts the ante 15
+viniciusvft: posts the ante 15
+wttomi: posts the ante 15
+wttomi: posts small blind 60
+LucaoPAP: posts big blind 120
+*** HOLE CARDS ***
+Dealt to nickyb123 [7h 5h]
+bl-mamba132: folds 
+nickyb123: folds 
+nideck: folds 
+viniciusvft: raises 90 to 210 and is all-in
+wttomi: raises 745 to 955 and is all-in
+LucaoPAP: folds 
+Uncalled bet (745) returned to wttomi
+*** FLOP *** [8c 4h 4s]
+*** TURN *** [8c 4h 4s] [Th]
+*** RIVER *** [8c 4h 4s Th] [6s]
+*** SHOW DOWN ***
+wttomi: shows [Js Jd] (two pair, Jacks and Fours)
+viniciusvft: shows [Qd 3d] (a pair of Fours)
+wttomi collected 630 from pot
+viniciusvft finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [8c 4h 4s Th 6s]
+Seat 1: LucaoPAP (big blind) folded before Flop
+Seat 2: bl-mamba132 folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 7: viniciusvft (button) showed [Qd 3d] and lost with a pair of Fours
+Seat 9: wttomi (small blind) showed [Js Jd] and won (630) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #255648830906: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VI (80/160) - 2025/04/08 18:00:56 WET [2025/04/08 13:00:56 ET]
+Table '3877252684 1' 9-max Seat #9 is the button
+Seat 1: LucaoPAP (2884 in chips) 
+Seat 2: bl-mamba132 (1585 in chips) 
+Seat 3: nickyb123 (3201 in chips) 
+Seat 5: nideck (1829 in chips) 
+Seat 9: wttomi (1375 in chips) 
+LucaoPAP: posts the ante 20
+bl-mamba132: posts the ante 20
+nickyb123: posts the ante 20
+nideck: posts the ante 20
+wttomi: posts the ante 20
+LucaoPAP: posts small blind 80
+bl-mamba132: posts big blind 160
+*** HOLE CARDS ***
+Dealt to nickyb123 [Jd 4h]
+nickyb123: folds 
+nideck: folds 
+wttomi: raises 1195 to 1355 and is all-in
+LucaoPAP: folds 
+bl-mamba132: calls 1195
+*** FLOP *** [7c 2d Kc]
+*** TURN *** [7c 2d Kc] [As]
+Ysatyss is disconnected 
+*** RIVER *** [7c 2d Kc As] [6c]
+*** SHOW DOWN ***
+bl-mamba132: shows [Qd Jh] (high card Ace)
+wttomi: shows [Ac Qc] (a flush, Ace high)
+wttomi collected 2890 from pot
+*** SUMMARY ***
+Total pot 2890 | Rake 0 
+Board [7c 2d Kc As 6c]
+Seat 1: LucaoPAP (small blind) folded before Flop
+Seat 2: bl-mamba132 (big blind) showed [Qd Jh] and lost with high card Ace
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 9: wttomi (button) showed [Ac Qc] and won (2890) with a flush, Ace high
+
+
+
+PokerStars Hand #255648836743: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VI (80/160) - 2025/04/08 18:01:26 WET [2025/04/08 13:01:26 ET]
+Table '3877252684 1' 9-max Seat #1 is the button
+Seat 1: LucaoPAP (2784 in chips) 
+Seat 2: bl-mamba132 (210 in chips) 
+Seat 3: nickyb123 (3181 in chips) 
+Seat 4: Ysatyss (1263 in chips) 
+Seat 5: nideck (1809 in chips) 
+Seat 9: wttomi (2890 in chips) 
+LucaoPAP: posts the ante 20
+bl-mamba132: posts the ante 20
+nickyb123: posts the ante 20
+Ysatyss: posts the ante 20
+nideck: posts the ante 20
+wttomi: posts the ante 20
+bl-mamba132: posts small blind 80
+nickyb123: posts big blind 160
+*** HOLE CARDS ***
+Dealt to nickyb123 [Kd Ts]
+Ysatyss: folds 
+nideck: raises 160 to 320
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: calls 110 and is all-in
+nickyb123: calls 160
+*** FLOP *** [2d 3d 9s]
+nickyb123: checks 
+nideck: bets 238
+nickyb123: folds 
+Uncalled bet (238) returned to nideck
+*** TURN *** [2d 3d 9s] [Ks]
+*** RIVER *** [2d 3d 9s Ks] [3h]
+*** SHOW DOWN ***
+nideck: shows [Ac Jd] (a pair of Threes)
+nideck collected 260 from side pot
+bl-mamba132: shows [Ah 2h] (two pair, Threes and Deuces)
+bl-mamba132 collected 690 from main pot
+*** SUMMARY ***
+Total pot 950 Main pot 690. Side pot 260. | Rake 0 
+Board [2d 3d 9s Ks 3h]
+Seat 1: LucaoPAP (button) folded before Flop (didn't bet)
+Seat 2: bl-mamba132 (small blind) showed [Ah 2h] and won (690) with two pair, Threes and Deuces
+Seat 3: nickyb123 (big blind) folded on the Flop
+Seat 4: Ysatyss folded before Flop (didn't bet)
+Seat 5: nideck showed [Ac Jd] and won (260) with a pair of Threes
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648846874: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VI (80/160) - 2025/04/08 18:02:16 WET [2025/04/08 13:02:16 ET]
+Table '3877252684 1' 9-max Seat #2 is the button
+Seat 1: LucaoPAP (2764 in chips) 
+Seat 2: bl-mamba132 (690 in chips) 
+Seat 3: nickyb123 (2841 in chips) 
+Seat 4: Ysatyss (1243 in chips) 
+Seat 5: nideck (1729 in chips) 
+Seat 9: wttomi (2870 in chips) 
+LucaoPAP: posts the ante 20
+bl-mamba132: posts the ante 20
+nickyb123: posts the ante 20
+Ysatyss: posts the ante 20
+nideck: posts the ante 20
+wttomi: posts the ante 20
+nickyb123: posts small blind 80
+Ysatyss: posts big blind 160
+*** HOLE CARDS ***
+Dealt to nickyb123 [8h Ac]
+nideck: folds 
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: folds 
+nickyb123: raises 320 to 480
+Ysatyss: folds 
+Uncalled bet (320) returned to nickyb123
+nickyb123 collected 440 from pot
+nickyb123: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 (button) folded before Flop (didn't bet)
+Seat 3: nickyb123 (small blind) collected (440)
+Seat 4: Ysatyss (big blind) folded before Flop
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648852199: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VI (80/160) - 2025/04/08 18:02:42 WET [2025/04/08 13:02:42 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 1: LucaoPAP (2744 in chips) 
+Seat 2: bl-mamba132 (670 in chips) 
+Seat 3: nickyb123 (3101 in chips) 
+Seat 4: Ysatyss (1063 in chips) 
+Seat 5: nideck (1709 in chips) 
+Seat 9: wttomi (2850 in chips) 
+LucaoPAP: posts the ante 20
+bl-mamba132: posts the ante 20
+nickyb123: posts the ante 20
+Ysatyss: posts the ante 20
+nideck: posts the ante 20
+wttomi: posts the ante 20
+Ysatyss: posts small blind 80
+nideck: posts big blind 160
+*** HOLE CARDS ***
+Dealt to nickyb123 [8d 9d]
+wttomi: folds 
+LucaoPAP: folds 
+bl-mamba132: raises 490 to 650 and is all-in
+nickyb123: folds 
+Ysatyss: folds 
+nideck: calls 490
+*** FLOP *** [2c 5c 8s]
+*** TURN *** [2c 5c 8s] [6h]
+*** RIVER *** [2c 5c 8s 6h] [7h]
+*** SHOW DOWN ***
+nideck: shows [Qc 6c] (a pair of Sixes)
+bl-mamba132: shows [Ts As] (high card Ace)
+nideck collected 1500 from pot
+bl-mamba132 finished the tournament in 12th place
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [2c 5c 8s 6h 7h]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: bl-mamba132 showed [Ts As] and lost with high card Ace
+Seat 3: nickyb123 (button) folded before Flop (didn't bet)
+Seat 4: Ysatyss (small blind) folded before Flop
+Seat 5: nideck (big blind) showed [Qc 6c] and won (1500) with a pair of Sixes
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648862831: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VI (80/160) - 2025/04/08 18:03:30 WET [2025/04/08 13:03:30 ET]
+Table '3877252684 1' 9-max Seat #4 is the button
+Seat 1: LucaoPAP (2724 in chips) 
+Seat 3: nickyb123 (3081 in chips) 
+Seat 4: Ysatyss (963 in chips) 
+Seat 5: nideck (2539 in chips) 
+Seat 9: wttomi (2830 in chips) 
+LucaoPAP: posts the ante 20
+nickyb123: posts the ante 20
+Ysatyss: posts the ante 20
+nideck: posts the ante 20
+wttomi: posts the ante 20
+nideck: posts small blind 80
+wttomi: posts big blind 160
+*** HOLE CARDS ***
+Dealt to nickyb123 [Qc 9s]
+LucaoPAP: folds 
+nickyb123: folds 
+Ysatyss: raises 783 to 943 and is all-in
+nideck: raises 1576 to 2519 and is all-in
+wttomi: folds 
+Uncalled bet (1576) returned to nideck
+*** FLOP *** [6d 9h 2s]
+*** TURN *** [6d 9h 2s] [Td]
+*** RIVER *** [6d 9h 2s Td] [8s]
+*** SHOW DOWN ***
+nideck: shows [Tc Ac] (a pair of Tens)
+Ysatyss: shows [As 6c] (a pair of Sixes)
+nideck collected 2146 from pot
+Ysatyss finished the tournament in 11th place
+*** SUMMARY ***
+Total pot 2146 | Rake 0 
+Board [6d 9h 2s Td 8s]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: Ysatyss (button) showed [As 6c] and lost with a pair of Sixes
+Seat 5: nideck (small blind) showed [Tc Ac] and won (2146) with a pair of Tens
+Seat 9: wttomi (big blind) folded before Flop
+
+
+
+PokerStars Hand #255648871001: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VI (80/160) - 2025/04/08 18:04:07 WET [2025/04/08 13:04:07 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 1: LucaoPAP (2704 in chips) 
+Seat 3: nickyb123 (3061 in chips) 
+Seat 5: nideck (3722 in chips) 
+Seat 9: wttomi (2650 in chips) 
+LucaoPAP: posts the ante 20
+nickyb123: posts the ante 20
+nideck: posts the ante 20
+wttomi: posts the ante 20
+wttomi: posts small blind 80
+LucaoPAP: posts big blind 160
+*** HOLE CARDS ***
+Dealt to nickyb123 [4d 7d]
+JoshWasTaken is disconnected 
+nickyb123: folds 
+nideck: raises 3542 to 3702 and is all-in
+wttomi: folds 
+LucaoPAP: folds 
+Uncalled bet (3542) returned to nideck
+nideck collected 480 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 1: LucaoPAP (big blind) folded before Flop
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 5: nideck (button) collected (480)
+Seat 9: wttomi (small blind) folded before Flop
+
+
+
+PokerStars Hand #255648875322: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VI (80/160) - 2025/04/08 18:04:27 WET [2025/04/08 13:04:27 ET]
+Table '3877252684 1' 9-max Seat #9 is the button
+Seat 1: LucaoPAP (2524 in chips) 
+Seat 3: nickyb123 (3041 in chips) 
+Seat 5: nideck (4022 in chips) 
+Seat 6: JoshWasTaken (2154 in chips) 
+Seat 9: wttomi (2550 in chips) 
+LucaoPAP: posts the ante 20
+nickyb123: posts the ante 20
+nideck: posts the ante 20
+JoshWasTaken: posts the ante 20
+wttomi: posts the ante 20
+LucaoPAP: posts small blind 80
+nickyb123: posts big blind 160
+*** HOLE CARDS ***
+Dealt to nickyb123 [4s 3c]
+nideck: folds 
+JoshWasTaken: raises 160 to 320
+wttomi: folds 
+LucaoPAP: folds 
+nickyb123: folds 
+Uncalled bet (160) returned to JoshWasTaken
+JoshWasTaken collected 500 from pot
+JoshWasTaken: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: LucaoPAP (small blind) folded before Flop
+Seat 3: nickyb123 (big blind) folded before Flop
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: JoshWasTaken collected (500)
+Seat 9: wttomi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648881636: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VI (80/160) - 2025/04/08 18:04:55 WET [2025/04/08 13:04:55 ET]
+Table '3877252684 1' 9-max Seat #1 is the button
+Seat 1: LucaoPAP (2424 in chips) 
+Seat 3: nickyb123 (2861 in chips) 
+Seat 5: nideck (4002 in chips) 
+Seat 6: JoshWasTaken (2474 in chips) 
+Seat 9: wttomi (2530 in chips) 
+LucaoPAP: posts the ante 20
+nickyb123: posts the ante 20
+nideck: posts the ante 20
+JoshWasTaken: posts the ante 20
+wttomi: posts the ante 20
+nickyb123: posts small blind 80
+nideck: posts big blind 160
+*** HOLE CARDS ***
+Dealt to nickyb123 [7h Js]
+JoshWasTaken: raises 160 to 320
+wttomi: folds 
+LucaoPAP: folds 
+nickyb123: folds 
+nideck: folds 
+Uncalled bet (160) returned to JoshWasTaken
+JoshWasTaken collected 500 from pot
+JoshWasTaken: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: LucaoPAP (button) folded before Flop (didn't bet)
+Seat 3: nickyb123 (small blind) folded before Flop
+Seat 5: nideck (big blind) folded before Flop
+Seat 6: JoshWasTaken collected (500)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648888237: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VI (80/160) - 2025/04/08 18:05:25 WET [2025/04/08 13:05:25 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 1: LucaoPAP (2404 in chips) 
+Seat 3: nickyb123 (2761 in chips) 
+Seat 5: nideck (3822 in chips) 
+Seat 6: JoshWasTaken (2794 in chips) 
+Seat 9: wttomi (2510 in chips) 
+LucaoPAP: posts the ante 20
+nickyb123: posts the ante 20
+nideck: posts the ante 20
+JoshWasTaken: posts the ante 20
+wttomi: posts the ante 20
+nideck: posts small blind 80
+JoshWasTaken: posts big blind 160
+*** HOLE CARDS ***
+Dealt to nickyb123 [3h 9s]
+wttomi: folds 
+LucaoPAP: folds 
+nickyb123: folds 
+nideck: raises 240 to 400
+bballcall is disconnected 
+färberweg71 is disconnected 
+tuborg123456 is disconnected 
+JoshWasTaken: calls 240
+*** FLOP *** [7c 9d 4h]
+nideck: checks 
+JoshWasTaken: checks 
+*** TURN *** [7c 9d 4h] [Js]
+nideck: checks 
+JoshWasTaken: bets 594
+nideck: calls 594
+*** RIVER *** [7c 9d 4h Js] [7d]
+nideck: checks 
+JoshWasTaken: checks 
+*** SHOW DOWN ***
+nideck: shows [Qc As] (a pair of Sevens)
+JoshWasTaken: mucks hand 
+nideck collected 2088 from pot
+*** SUMMARY ***
+Total pot 2088 | Rake 0 
+Board [7c 9d 4h Js 7d]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 3: nickyb123 (button) folded before Flop (didn't bet)
+Seat 5: nideck (small blind) showed [Qc As] and won (2088) with a pair of Sevens
+Seat 6: JoshWasTaken (big blind) mucked [8c Kc]
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648910880: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VII (100/200) - 2025/04/08 18:07:08 WET [2025/04/08 13:07:08 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 1: LucaoPAP (2384 in chips) 
+Seat 2: diegoppokerAA (4305 in chips) 
+Seat 3: nickyb123 (2741 in chips) 
+Seat 4: färberweg71 (2362 in chips) 
+Seat 5: nideck (4896 in chips) 
+Seat 6: JoshWasTaken (1780 in chips) 
+Seat 7: bballcall (2478 in chips) 
+Seat 8: tuborg123456 (2064 in chips) 
+Seat 9: wttomi (2490 in chips) 
+LucaoPAP: posts the ante 25
+diegoppokerAA: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+JoshWasTaken: posts the ante 25
+bballcall: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+JoshWasTaken: posts small blind 100
+bballcall: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nickyb123 [Th Kh]
+tuborg123456: folds 
+wttomi: folds 
+LucaoPAP: folds 
+diegoppokerAA: folds 
+nickyb123: raises 400 to 600
+färberweg71: raises 1737 to 2337 and is all-in
+nideck: folds 
+JoshWasTaken: folds 
+bballcall: folds 
+nickyb123: folds 
+Uncalled bet (1737) returned to färberweg71
+färberweg71 collected 1725 from pot
+färberweg71: doesn't show hand 
+*** SUMMARY ***
+Total pot 1725 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: diegoppokerAA folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop
+Seat 4: färberweg71 collected (1725)
+Seat 5: nideck (button) folded before Flop (didn't bet)
+Seat 6: JoshWasTaken (small blind) folded before Flop
+Seat 7: bballcall (big blind) folded before Flop
+Seat 8: tuborg123456 folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648919447: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VII (100/200) - 2025/04/08 18:07:47 WET [2025/04/08 13:07:47 ET]
+Table '3877252684 1' 9-max Seat #6 is the button
+Seat 1: LucaoPAP (2359 in chips) 
+Seat 2: diegoppokerAA (4280 in chips) 
+Seat 3: nickyb123 (2116 in chips) 
+Seat 4: färberweg71 (3462 in chips) 
+Seat 5: nideck (4871 in chips) 
+Seat 6: JoshWasTaken (1655 in chips) 
+Seat 7: bballcall (2253 in chips) 
+Seat 8: tuborg123456 (2039 in chips) 
+Seat 9: wttomi (2465 in chips) 
+LucaoPAP: posts the ante 25
+diegoppokerAA: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+JoshWasTaken: posts the ante 25
+bballcall: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+bballcall: posts small blind 100
+tuborg123456: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nickyb123 [As 9d]
+wttomi: raises 2240 to 2440 and is all-in
+LucaoPAP: folds 
+diegoppokerAA: folds 
+nickyb123: folds 
+färberweg71: folds 
+nideck: folds 
+JoshWasTaken: folds 
+bballcall: folds 
+tuborg123456: folds 
+Uncalled bet (2240) returned to wttomi
+wttomi collected 725 from pot
+wttomi: doesn't show hand 
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: diegoppokerAA folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: JoshWasTaken (button) folded before Flop (didn't bet)
+Seat 7: bballcall (small blind) folded before Flop
+Seat 8: tuborg123456 (big blind) folded before Flop
+Seat 9: wttomi collected (725)
+
+
+
+PokerStars Hand #255648927675: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VII (100/200) - 2025/04/08 18:08:24 WET [2025/04/08 13:08:24 ET]
+Table '3877252684 1' 9-max Seat #7 is the button
+Seat 1: LucaoPAP (2334 in chips) 
+Seat 2: diegoppokerAA (4255 in chips) 
+Seat 3: nickyb123 (2091 in chips) 
+Seat 4: färberweg71 (3437 in chips) 
+Seat 5: nideck (4846 in chips) 
+Seat 6: JoshWasTaken (1630 in chips) 
+Seat 7: bballcall (2128 in chips) 
+Seat 8: tuborg123456 (1814 in chips) 
+Seat 9: wttomi (2965 in chips) 
+LucaoPAP: posts the ante 25
+diegoppokerAA: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+JoshWasTaken: posts the ante 25
+bballcall: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+tuborg123456: posts small blind 100
+wttomi: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nickyb123 [Jd Kh]
+LucaoPAP: folds 
+diegoppokerAA: raises 200 to 400
+nickyb123: folds 
+färberweg71: folds 
+nideck: folds 
+JoshWasTaken: folds 
+bballcall: folds 
+tuborg123456: raises 1389 to 1789 and is all-in
+wttomi: folds 
+diegoppokerAA: calls 1389
+*** FLOP *** [Kd 9h Ac]
+*** TURN *** [Kd 9h Ac] [Ah]
+*** RIVER *** [Kd 9h Ac Ah] [5h]
+*** SHOW DOWN ***
+tuborg123456: shows [Ad Th] (three of a kind, Aces)
+diegoppokerAA: shows [Qc Qh] (two pair, Aces and Queens)
+tuborg123456 collected 4003 from pot
+*** SUMMARY ***
+Total pot 4003 | Rake 0 
+Board [Kd 9h Ac Ah 5h]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 2: diegoppokerAA showed [Qc Qh] and lost with two pair, Aces and Queens
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: JoshWasTaken folded before Flop (didn't bet)
+Seat 7: bballcall (button) folded before Flop (didn't bet)
+Seat 8: tuborg123456 (small blind) showed [Ad Th] and won (4003) with three of a kind, Aces
+Seat 9: wttomi (big blind) folded before Flop
+
+
+
+PokerStars Hand #255648938021: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VII (100/200) - 2025/04/08 18:09:11 WET [2025/04/08 13:09:11 ET]
+Table '3877252684 1' 9-max Seat #8 is the button
+Seat 1: LucaoPAP (2309 in chips) 
+Seat 2: diegoppokerAA (2441 in chips) 
+Seat 3: nickyb123 (2066 in chips) 
+Seat 4: färberweg71 (3412 in chips) 
+Seat 5: nideck (4821 in chips) 
+Seat 6: JoshWasTaken (1605 in chips) 
+Seat 7: bballcall (2103 in chips) 
+Seat 8: tuborg123456 (4003 in chips) 
+Seat 9: wttomi (2740 in chips) 
+LucaoPAP: posts the ante 25
+diegoppokerAA: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+JoshWasTaken: posts the ante 25
+bballcall: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+wttomi: posts small blind 100
+LucaoPAP: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nickyb123 [7d 2h]
+diegoppokerAA: folds 
+nickyb123: folds 
+färberweg71: folds 
+nideck: raises 200 to 400
+JoshWasTaken: folds 
+bballcall: folds 
+tuborg123456: folds 
+wttomi: folds 
+LucaoPAP: folds 
+Uncalled bet (200) returned to nideck
+nideck collected 725 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Seat 1: LucaoPAP (big blind) folded before Flop
+Seat 2: diegoppokerAA folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck collected (725)
+Seat 6: JoshWasTaken folded before Flop (didn't bet)
+Seat 7: bballcall folded before Flop (didn't bet)
+Seat 8: tuborg123456 (button) folded before Flop (didn't bet)
+Seat 9: wttomi (small blind) folded before Flop
+
+
+
+PokerStars Hand #255648946050: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VII (100/200) - 2025/04/08 18:09:48 WET [2025/04/08 13:09:48 ET]
+Table '3877252684 1' 9-max Seat #9 is the button
+Seat 1: LucaoPAP (2084 in chips) 
+Seat 2: diegoppokerAA (2416 in chips) 
+Seat 3: nickyb123 (2041 in chips) 
+Seat 4: färberweg71 (3387 in chips) 
+Seat 5: nideck (5321 in chips) 
+Seat 6: JoshWasTaken (1580 in chips) 
+Seat 7: bballcall (2078 in chips) 
+Seat 8: tuborg123456 (3978 in chips) 
+Seat 9: wttomi (2615 in chips) 
+LucaoPAP: posts the ante 25
+diegoppokerAA: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+JoshWasTaken: posts the ante 25
+bballcall: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+LucaoPAP: posts small blind 100
+diegoppokerAA: posts big blind 200
+*** HOLE CARDS ***
+Dealt to nickyb123 [6d Jd]
+nickyb123: folds 
+färberweg71: folds 
+nideck: raises 200 to 400
+JoshWasTaken: folds 
+bballcall: folds 
+tuborg123456: calls 400
+wttomi: folds 
+LucaoPAP: folds 
+diegoppokerAA: raises 1991 to 2391 and is all-in
+nideck: raises 2905 to 5296 and is all-in
+tuborg123456: folds 
+Uncalled bet (2905) returned to nideck
+*** FLOP *** [8d 5s 3s]
+*** TURN *** [8d 5s 3s] [8s]
+*** RIVER *** [8d 5s 3s 8s] [6h]
+*** SHOW DOWN ***
+diegoppokerAA: shows [Ad Qs] (a pair of Eights)
+nideck: shows [Kc Ah] (a pair of Eights - Ace+King kicker)
+nideck collected 5507 from pot
+diegoppokerAA finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 5507 | Rake 0 
+Board [8d 5s 3s 8s 6h]
+Seat 1: LucaoPAP (small blind) folded before Flop
+Seat 2: diegoppokerAA (big blind) showed [Ad Qs] and lost with a pair of Eights
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck showed [Kc Ah] and won (5507) with a pair of Eights
+Seat 6: JoshWasTaken folded before Flop (didn't bet)
+Seat 7: bballcall folded before Flop (didn't bet)
+Seat 8: tuborg123456 folded before Flop
+Seat 9: wttomi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648958381: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VIII (150/300) - 2025/04/08 18:10:42 WET [2025/04/08 13:10:42 ET]
+Table '3877252684 1' 9-max Seat #1 is the button
+Seat 1: LucaoPAP (1959 in chips) 
+Seat 3: nickyb123 (2016 in chips) 
+Seat 4: färberweg71 (3362 in chips) 
+Seat 5: nideck (8412 in chips) 
+Seat 6: JoshWasTaken (1555 in chips) 
+Seat 7: bballcall (2053 in chips) 
+Seat 8: tuborg123456 (3553 in chips) 
+Seat 9: wttomi (2590 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+JoshWasTaken: posts the ante 25
+bballcall: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+nickyb123: posts small blind 150
+färberweg71: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nickyb123 [Qd Tc]
+nideck: folds 
+JoshWasTaken: folds 
+bballcall: folds 
+tuborg123456: raises 3228 to 3528 and is all-in
+wttomi: folds 
+LucaoPAP: folds 
+nickyb123: folds 
+färberweg71: folds 
+Uncalled bet (3228) returned to tuborg123456
+tuborg123456 collected 950 from pot
+tuborg123456: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Seat 1: LucaoPAP (button) folded before Flop (didn't bet)
+Seat 3: nickyb123 (small blind) folded before Flop
+Seat 4: färberweg71 (big blind) folded before Flop
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: JoshWasTaken folded before Flop (didn't bet)
+Seat 7: bballcall folded before Flop (didn't bet)
+Seat 8: tuborg123456 collected (950)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648965792: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VIII (150/300) - 2025/04/08 18:11:16 WET [2025/04/08 13:11:16 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 1: LucaoPAP (1934 in chips) 
+Seat 3: nickyb123 (1841 in chips) 
+Seat 4: färberweg71 (3037 in chips) 
+Seat 5: nideck (8387 in chips) 
+Seat 6: JoshWasTaken (1530 in chips) 
+Seat 7: bballcall (2028 in chips) 
+Seat 8: tuborg123456 (4178 in chips) 
+Seat 9: wttomi (2565 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+JoshWasTaken: posts the ante 25
+bballcall: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+färberweg71: posts small blind 150
+nideck: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nickyb123 [2h Qs]
+JoshWasTaken: folds 
+bballcall: folds 
+tuborg123456: folds 
+wttomi: folds 
+LucaoPAP: folds 
+nickyb123: folds 
+färberweg71: folds 
+Uncalled bet (150) returned to nideck
+nideck collected 500 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 3: nickyb123 (button) folded before Flop (didn't bet)
+Seat 4: färberweg71 (small blind) folded before Flop
+Seat 5: nideck (big blind) collected (500)
+Seat 6: JoshWasTaken folded before Flop (didn't bet)
+Seat 7: bballcall folded before Flop (didn't bet)
+Seat 8: tuborg123456 folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648969513: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VIII (150/300) - 2025/04/08 18:11:32 WET [2025/04/08 13:11:32 ET]
+Table '3877252684 1' 9-max Seat #4 is the button
+Seat 1: LucaoPAP (1909 in chips) 
+Seat 3: nickyb123 (1816 in chips) 
+Seat 4: färberweg71 (2862 in chips) 
+Seat 5: nideck (8712 in chips) 
+Seat 6: JoshWasTaken (1505 in chips) 
+Seat 7: bballcall (2003 in chips) 
+Seat 8: tuborg123456 (4153 in chips) 
+Seat 9: wttomi (2540 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+JoshWasTaken: posts the ante 25
+bballcall: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+nideck: posts small blind 150
+JoshWasTaken: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nickyb123 [As Kd]
+bballcall: folds 
+tuborg123456: folds 
+wttomi: folds 
+LucaoPAP: folds 
+nickyb123: raises 1491 to 1791 and is all-in
+färberweg71: folds 
+nideck: folds 
+JoshWasTaken: folds 
+Uncalled bet (1491) returned to nickyb123
+nickyb123 collected 950 from pot
+nickyb123: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 3: nickyb123 collected (950)
+Seat 4: färberweg71 (button) folded before Flop (didn't bet)
+Seat 5: nideck (small blind) folded before Flop
+Seat 6: JoshWasTaken (big blind) folded before Flop
+Seat 7: bballcall folded before Flop (didn't bet)
+Seat 8: tuborg123456 folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648976481: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VIII (150/300) - 2025/04/08 18:12:04 WET [2025/04/08 13:12:04 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 1: LucaoPAP (1884 in chips) 
+Seat 3: nickyb123 (2441 in chips) 
+Seat 4: färberweg71 (2837 in chips) 
+Seat 5: nideck (8537 in chips) 
+Seat 6: JoshWasTaken (1180 in chips) 
+Seat 7: bballcall (1978 in chips) 
+Seat 8: tuborg123456 (4128 in chips) 
+Seat 9: wttomi (2515 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+JoshWasTaken: posts the ante 25
+bballcall: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+JoshWasTaken: posts small blind 150
+bballcall: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nickyb123 [Kd 2h]
+tuborg123456: raises 3803 to 4103 and is all-in
+wttomi: folds 
+LucaoPAP: folds 
+nickyb123: folds 
+färberweg71: folds 
+nideck: folds 
+JoshWasTaken: folds 
+bballcall: folds 
+Uncalled bet (3803) returned to tuborg123456
+tuborg123456 collected 950 from pot
+tuborg123456: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck (button) folded before Flop (didn't bet)
+Seat 6: JoshWasTaken (small blind) folded before Flop
+Seat 7: bballcall (big blind) folded before Flop
+Seat 8: tuborg123456 collected (950)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648983505: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VIII (150/300) - 2025/04/08 18:12:35 WET [2025/04/08 13:12:35 ET]
+Table '3877252684 1' 9-max Seat #6 is the button
+Seat 1: LucaoPAP (1859 in chips) 
+Seat 3: nickyb123 (2416 in chips) 
+Seat 4: färberweg71 (2812 in chips) 
+Seat 5: nideck (8512 in chips) 
+Seat 6: JoshWasTaken (1005 in chips) 
+Seat 7: bballcall (1653 in chips) 
+Seat 8: tuborg123456 (4753 in chips) 
+Seat 9: wttomi (2490 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+JoshWasTaken: posts the ante 25
+bballcall: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+bballcall: posts small blind 150
+tuborg123456: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nickyb123 [6c 4s]
+wttomi: folds 
+LucaoPAP: folds 
+nickyb123: folds 
+färberweg71: folds 
+nideck: folds 
+JoshWasTaken: folds 
+bballcall: raises 1328 to 1628 and is all-in
+tuborg123456: calls 1328
+*** FLOP *** [7s 5d 5c]
+*** TURN *** [7s 5d 5c] [6h]
+*** RIVER *** [7s 5d 5c 6h] [4c]
+*** SHOW DOWN ***
+bballcall: shows [9d Kc] (a pair of Fives)
+tuborg123456: shows [8d Ah] (a straight, Four to Eight)
+tuborg123456 collected 3456 from pot
+bballcall finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 3456 | Rake 0 
+Board [7s 5d 5c 6h 4c]
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: JoshWasTaken (button) folded before Flop (didn't bet)
+Seat 7: bballcall (small blind) showed [9d Kc] and lost with a pair of Fives
+Seat 8: tuborg123456 (big blind) showed [8d Ah] and won (3456) with a straight, Four to Eight
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255648995791: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VIII (150/300) - 2025/04/08 18:13:30 WET [2025/04/08 13:13:30 ET]
+Table '3877252684 1' 9-max Seat #8 is the button
+Seat 1: LucaoPAP (1834 in chips) 
+Seat 3: nickyb123 (2391 in chips) 
+Seat 4: färberweg71 (2787 in chips) 
+Seat 5: nideck (8487 in chips) 
+Seat 6: JoshWasTaken (980 in chips) 
+Seat 8: tuborg123456 (6556 in chips) 
+Seat 9: wttomi (2465 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+JoshWasTaken: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+wttomi: posts small blind 150
+LucaoPAP: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nickyb123 [Qd 4c]
+nickyb123: folds 
+färberweg71: folds 
+nideck: folds 
+JoshWasTaken: folds 
+tuborg123456: raises 6231 to 6531 and is all-in
+wttomi: folds 
+LucaoPAP: folds 
+Uncalled bet (6231) returned to tuborg123456
+tuborg123456 collected 925 from pot
+tuborg123456: doesn't show hand 
+*** SUMMARY ***
+Total pot 925 | Rake 0 
+Seat 1: LucaoPAP (big blind) folded before Flop
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: JoshWasTaken folded before Flop (didn't bet)
+Seat 8: tuborg123456 (button) collected (925)
+Seat 9: wttomi (small blind) folded before Flop
+
+
+
+PokerStars Hand #255649003679: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VIII (150/300) - 2025/04/08 18:14:06 WET [2025/04/08 13:14:06 ET]
+Table '3877252684 1' 9-max Seat #9 is the button
+Seat 1: LucaoPAP (1509 in chips) 
+Seat 3: nickyb123 (2366 in chips) 
+Seat 4: färberweg71 (2762 in chips) 
+Seat 5: nideck (8462 in chips) 
+Seat 6: JoshWasTaken (955 in chips) 
+Seat 8: tuborg123456 (7156 in chips) 
+Seat 9: wttomi (2290 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+JoshWasTaken: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+LucaoPAP: posts small blind 150
+nickyb123: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nickyb123 [Ac 6s]
+färberweg71: folds 
+nideck has timed out
+nideck: folds 
+nideck is sitting out
+nideck has returned
+JoshWasTaken: raises 630 to 930 and is all-in
+tuborg123456: folds 
+wttomi: folds 
+LucaoPAP: folds 
+nickyb123: calls 630
+*** FLOP *** [4h 5d Qs]
+*** TURN *** [4h 5d Qs] [Ah]
+*** RIVER *** [4h 5d Qs Ah] [Kh]
+*** SHOW DOWN ***
+nickyb123: shows [Ac 6s] (a pair of Aces)
+JoshWasTaken: shows [Qc 8d] (a pair of Queens)
+nickyb123 collected 2185 from pot
+JoshWasTaken finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 2185 | Rake 0 
+Board [4h 5d Qs Ah Kh]
+Seat 1: LucaoPAP (small blind) folded before Flop
+Seat 3: nickyb123 (big blind) showed [Ac 6s] and won (2185) with a pair of Aces
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 6: JoshWasTaken showed [Qc 8d] and lost with a pair of Queens
+Seat 8: tuborg123456 folded before Flop (didn't bet)
+Seat 9: wttomi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255649012646: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VIII (150/300) - 2025/04/08 18:14:45 WET [2025/04/08 13:14:45 ET]
+Table '3877252684 1' 9-max Seat #1 is the button
+Seat 1: LucaoPAP (1334 in chips) 
+Seat 3: nickyb123 (3596 in chips) 
+Seat 4: färberweg71 (2737 in chips) 
+Seat 5: nideck (8437 in chips) 
+Seat 8: tuborg123456 (7131 in chips) 
+Seat 9: wttomi (2265 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+nickyb123: posts small blind 150
+färberweg71: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nickyb123 [Ts Ah]
+nideck: folds 
+tuborg123456: folds 
+wttomi: folds 
+LucaoPAP: folds 
+nickyb123: raises 3271 to 3571 and is all-in
+färberweg71: folds [4s]
+Uncalled bet (3271) returned to nickyb123
+nickyb123 collected 750 from pot
+nickyb123: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Seat 1: LucaoPAP (button) folded before Flop (didn't bet)
+Seat 3: nickyb123 (small blind) collected (750)
+Seat 4: färberweg71 (big blind) folded before Flop
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 8: tuborg123456 folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255649018129: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VIII (150/300) - 2025/04/08 18:15:09 WET [2025/04/08 13:15:09 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 1: LucaoPAP (1309 in chips) 
+Seat 3: nickyb123 (4021 in chips) 
+Seat 4: färberweg71 (2412 in chips) 
+Seat 5: nideck (8412 in chips) 
+Seat 8: tuborg123456 (7106 in chips) 
+Seat 9: wttomi (2240 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+färberweg71: posts small blind 150
+nideck: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nickyb123 [9s 8h]
+tuborg123456: folds 
+wttomi: raises 1915 to 2215 and is all-in
+LucaoPAP: folds 
+nickyb123: folds 
+färberweg71: folds 
+nideck: folds 
+Uncalled bet (1915) returned to wttomi
+wttomi collected 900 from pot
+wttomi: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 3: nickyb123 (button) folded before Flop (didn't bet)
+Seat 4: färberweg71 (small blind) folded before Flop
+Seat 5: nideck (big blind) folded before Flop
+Seat 8: tuborg123456 folded before Flop (didn't bet)
+Seat 9: wttomi collected (900)
+
+
+
+PokerStars Hand #255649023830: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level VIII (150/300) - 2025/04/08 18:15:35 WET [2025/04/08 13:15:35 ET]
+Table '3877252684 1' 9-max Seat #4 is the button
+Seat 1: LucaoPAP (1284 in chips) 
+Seat 3: nickyb123 (3996 in chips) 
+Seat 4: färberweg71 (2237 in chips) 
+Seat 5: nideck (8087 in chips) 
+Seat 8: tuborg123456 (7081 in chips) 
+Seat 9: wttomi (2815 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+nideck: posts small blind 150
+tuborg123456: posts big blind 300
+*** HOLE CARDS ***
+Dealt to nickyb123 [Ks 2d]
+wttomi: folds 
+LucaoPAP: folds 
+nickyb123: folds 
+färberweg71: folds 
+nideck: raises 450 to 750
+tuborg123456: folds 
+Uncalled bet (450) returned to nideck
+nideck collected 750 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: färberweg71 (button) folded before Flop (didn't bet)
+Seat 5: nideck (small blind) collected (750)
+Seat 8: tuborg123456 (big blind) folded before Flop
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255649029545: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IX (200/400) - 2025/04/08 18:16:00 WET [2025/04/08 13:16:00 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 1: LucaoPAP (1259 in chips) 
+Seat 3: nickyb123 (3971 in chips) 
+Seat 4: färberweg71 (2212 in chips) 
+Seat 5: nideck (8512 in chips) 
+Seat 8: tuborg123456 (6756 in chips) 
+Seat 9: wttomi (2790 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+tuborg123456: posts small blind 200
+wttomi: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nickyb123 [4s Jc]
+LucaoPAP: folds 
+nickyb123: folds 
+färberweg71: folds 
+nideck: raises 400 to 800
+tuborg123456: folds 
+wttomi: folds 
+Uncalled bet (400) returned to nideck
+nideck collected 1150 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck (button) collected (1150)
+Seat 8: tuborg123456 (small blind) folded before Flop
+Seat 9: wttomi (big blind) folded before Flop
+
+
+
+PokerStars Hand #255649035141: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IX (200/400) - 2025/04/08 18:16:25 WET [2025/04/08 13:16:25 ET]
+Table '3877252684 1' 9-max Seat #8 is the button
+Seat 1: LucaoPAP (1234 in chips) 
+Seat 3: nickyb123 (3946 in chips) 
+Seat 4: färberweg71 (2187 in chips) 
+Seat 5: nideck (9237 in chips) 
+Seat 8: tuborg123456 (6531 in chips) 
+Seat 9: wttomi (2365 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+wttomi: posts small blind 200
+LucaoPAP: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nickyb123 [7d 7c]
+nickyb123: raises 3521 to 3921 and is all-in
+färberweg71: folds 
+nideck: folds 
+tuborg123456: folds 
+wttomi: folds 
+LucaoPAP: folds 
+Uncalled bet (3521) returned to nickyb123
+nickyb123 collected 1150 from pot
+nickyb123: doesn't show hand 
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Seat 1: LucaoPAP (big blind) folded before Flop
+Seat 3: nickyb123 collected (1150)
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 8: tuborg123456 (button) folded before Flop (didn't bet)
+Seat 9: wttomi (small blind) folded before Flop
+
+
+
+PokerStars Hand #255649039435: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IX (200/400) - 2025/04/08 18:16:44 WET [2025/04/08 13:16:44 ET]
+Table '3877252684 1' 9-max Seat #9 is the button
+Seat 1: LucaoPAP (809 in chips) 
+Seat 3: nickyb123 (4671 in chips) 
+Seat 4: färberweg71 (2162 in chips) 
+Seat 5: nideck (9212 in chips) 
+Seat 8: tuborg123456 (6506 in chips) 
+Seat 9: wttomi (2140 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+LucaoPAP: posts small blind 200
+nickyb123: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nickyb123 [3c 8h]
+färberweg71: folds 
+nideck: raises 400 to 800
+tuborg123456: folds 
+wttomi: folds 
+LucaoPAP: calls 584 and is all-in
+nickyb123: calls 400
+*** FLOP *** [As 5d 9c]
+nickyb123: checks 
+nideck: checks 
+*** TURN *** [As 5d 9c] [Qh]
+nickyb123: checks 
+nideck: checks 
+*** RIVER *** [As 5d 9c Qh] [Ac]
+nickyb123: checks 
+nideck: bets 800
+nickyb123: folds 
+Uncalled bet (800) returned to nideck
+*** SHOW DOWN ***
+nideck: shows [Qc Jd] (two pair, Aces and Queens)
+nideck collected 32 from side pot
+LucaoPAP: shows [Ah 4s] (three of a kind, Aces)
+LucaoPAP collected 2502 from main pot
+*** SUMMARY ***
+Total pot 2534 Main pot 2502. Side pot 32. | Rake 0 
+Board [As 5d 9c Qh Ac]
+Seat 1: LucaoPAP (small blind) showed [Ah 4s] and won (2502) with three of a kind, Aces
+Seat 3: nickyb123 (big blind) folded on the River
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck showed [Qc Jd] and won (32) with two pair, Aces and Queens
+Seat 8: tuborg123456 folded before Flop (didn't bet)
+Seat 9: wttomi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255649049535: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IX (200/400) - 2025/04/08 18:17:28 WET [2025/04/08 13:17:28 ET]
+Table '3877252684 1' 9-max Seat #1 is the button
+Seat 1: LucaoPAP (2502 in chips) 
+Seat 3: nickyb123 (3846 in chips) 
+Seat 4: färberweg71 (2137 in chips) 
+Seat 5: nideck (8419 in chips) 
+Seat 8: tuborg123456 (6481 in chips) 
+Seat 9: wttomi (2115 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+nickyb123: posts small blind 200
+färberweg71: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nickyb123 [Ts 8s]
+nideck: folds 
+tuborg123456: folds 
+wttomi: folds 
+LucaoPAP: folds 
+nickyb123: raises 3421 to 3821 and is all-in
+färberweg71: folds 
+Uncalled bet (3421) returned to nickyb123
+nickyb123 collected 950 from pot
+nickyb123: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Seat 1: LucaoPAP (button) folded before Flop (didn't bet)
+Seat 3: nickyb123 (small blind) collected (950)
+Seat 4: färberweg71 (big blind) folded before Flop
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 8: tuborg123456 folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255649056803: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IX (200/400) - 2025/04/08 18:18:01 WET [2025/04/08 13:18:01 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 1: LucaoPAP (2477 in chips) 
+Seat 3: nickyb123 (4371 in chips) 
+Seat 4: färberweg71 (1712 in chips) 
+Seat 5: nideck (8394 in chips) 
+Seat 8: tuborg123456 (6456 in chips) 
+Seat 9: wttomi (2090 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+färberweg71: posts small blind 200
+nideck: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nickyb123 [Ah 7s]
+tuborg123456: folds 
+wttomi: folds 
+LucaoPAP: folds 
+nickyb123: raises 3946 to 4346 and is all-in
+färberweg71: folds 
+nideck: folds 
+Uncalled bet (3946) returned to nickyb123
+nickyb123 collected 1150 from pot
+nickyb123: doesn't show hand 
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 3: nickyb123 (button) collected (1150)
+Seat 4: färberweg71 (small blind) folded before Flop
+Seat 5: nideck (big blind) folded before Flop
+Seat 8: tuborg123456 folded before Flop (didn't bet)
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255649060841: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IX (200/400) - 2025/04/08 18:18:18 WET [2025/04/08 13:18:18 ET]
+Table '3877252684 1' 9-max Seat #4 is the button
+Seat 1: LucaoPAP (2452 in chips) 
+Seat 3: nickyb123 (5096 in chips) 
+Seat 4: färberweg71 (1487 in chips) 
+Seat 5: nideck (7969 in chips) 
+Seat 8: tuborg123456 (6431 in chips) 
+Seat 9: wttomi (2065 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+nideck: posts small blind 200
+tuborg123456: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nickyb123 [Td Kd]
+wttomi: folds 
+LucaoPAP: folds 
+nickyb123: folds 
+färberweg71: folds 
+nideck: raises 7544 to 7944 and is all-in
+tuborg123456: folds 
+Uncalled bet (7544) returned to nideck
+nideck collected 950 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: färberweg71 (button) folded before Flop (didn't bet)
+Seat 5: nideck (small blind) collected (950)
+Seat 8: tuborg123456 (big blind) folded before Flop
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255649066666: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IX (200/400) - 2025/04/08 18:18:44 WET [2025/04/08 13:18:44 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 1: LucaoPAP (2427 in chips) 
+Seat 3: nickyb123 (5071 in chips) 
+Seat 4: färberweg71 (1462 in chips) 
+Seat 5: nideck (8494 in chips) 
+Seat 8: tuborg123456 (6006 in chips) 
+Seat 9: wttomi (2040 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+tuborg123456: posts small blind 200
+wttomi: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nickyb123 [Kh 4h]
+LucaoPAP: folds 
+nickyb123: folds 
+färberweg71: folds 
+nideck: raises 400 to 800
+tuborg123456: folds 
+wttomi: folds 
+Uncalled bet (400) returned to nideck
+nideck collected 1150 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck (button) collected (1150)
+Seat 8: tuborg123456 (small blind) folded before Flop
+Seat 9: wttomi (big blind) folded before Flop
+
+
+
+PokerStars Hand #255649071861: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IX (200/400) - 2025/04/08 18:19:07 WET [2025/04/08 13:19:07 ET]
+Table '3877252684 1' 9-max Seat #8 is the button
+Seat 1: LucaoPAP (2402 in chips) 
+Seat 3: nickyb123 (5046 in chips) 
+Seat 4: färberweg71 (1437 in chips) 
+Seat 5: nideck (9219 in chips) 
+Seat 8: tuborg123456 (5781 in chips) 
+Seat 9: wttomi (1615 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+wttomi: posts small blind 200
+LucaoPAP: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nickyb123 [Th As]
+nickyb123: raises 400 to 800
+färberweg71: folds 
+nideck: folds 
+tuborg123456: folds 
+wttomi: folds 
+LucaoPAP: folds 
+Uncalled bet (400) returned to nickyb123
+nickyb123 collected 1150 from pot
+nickyb123: doesn't show hand 
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Seat 1: LucaoPAP (big blind) folded before Flop
+Seat 3: nickyb123 collected (1150)
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 8: tuborg123456 (button) folded before Flop (didn't bet)
+Seat 9: wttomi (small blind) folded before Flop
+
+
+
+PokerStars Hand #255649077186: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IX (200/400) - 2025/04/08 18:19:31 WET [2025/04/08 13:19:31 ET]
+Table '3877252684 1' 9-max Seat #9 is the button
+Seat 1: LucaoPAP (1977 in chips) 
+Seat 3: nickyb123 (5771 in chips) 
+Seat 4: färberweg71 (1412 in chips) 
+Seat 5: nideck (9194 in chips) 
+Seat 8: tuborg123456 (5756 in chips) 
+Seat 9: wttomi (1390 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+LucaoPAP: posts small blind 200
+nickyb123: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nickyb123 [4d Qs]
+färberweg71: folds 
+nideck: folds 
+tuborg123456: folds 
+wttomi: folds 
+LucaoPAP: folds 
+Uncalled bet (200) returned to nickyb123
+nickyb123 collected 550 from pot
+nickyb123: doesn't show hand 
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Seat 1: LucaoPAP (small blind) folded before Flop
+Seat 3: nickyb123 (big blind) collected (550)
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 8: tuborg123456 folded before Flop (didn't bet)
+Seat 9: wttomi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255649085916: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IX (200/400) - 2025/04/08 18:20:09 WET [2025/04/08 13:20:09 ET]
+Table '3877252684 1' 9-max Seat #1 is the button
+Seat 1: LucaoPAP (1752 in chips) 
+Seat 3: nickyb123 (6096 in chips) 
+Seat 4: färberweg71 (1387 in chips) 
+Seat 5: nideck (9169 in chips) 
+Seat 8: tuborg123456 (5731 in chips) 
+Seat 9: wttomi (1365 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+nickyb123: posts small blind 200
+färberweg71: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nickyb123 [2h 9d]
+nideck: folds 
+tuborg123456: folds 
+wttomi: raises 940 to 1340 and is all-in
+LucaoPAP: folds 
+nickyb123: folds 
+färberweg71: folds 
+Uncalled bet (940) returned to wttomi
+wttomi collected 1150 from pot
+wttomi: doesn't show hand 
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Seat 1: LucaoPAP (button) folded before Flop (didn't bet)
+Seat 3: nickyb123 (small blind) folded before Flop
+Seat 4: färberweg71 (big blind) folded before Flop
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 8: tuborg123456 folded before Flop (didn't bet)
+Seat 9: wttomi collected (1150)
+
+
+
+PokerStars Hand #255649091207: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level IX (200/400) - 2025/04/08 18:20:32 WET [2025/04/08 13:20:32 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 1: LucaoPAP (1727 in chips) 
+Seat 3: nickyb123 (5871 in chips) 
+Seat 4: färberweg71 (962 in chips) 
+Seat 5: nideck (9144 in chips) 
+Seat 8: tuborg123456 (5706 in chips) 
+Seat 9: wttomi (2090 in chips) 
+LucaoPAP: posts the ante 25
+nickyb123: posts the ante 25
+färberweg71: posts the ante 25
+nideck: posts the ante 25
+tuborg123456: posts the ante 25
+wttomi: posts the ante 25
+färberweg71: posts small blind 200
+nideck: posts big blind 400
+*** HOLE CARDS ***
+Dealt to nickyb123 [Th Ad]
+tuborg123456: folds 
+wttomi: raises 1665 to 2065 and is all-in
+LucaoPAP: folds 
+nickyb123: folds 
+färberweg71: folds 
+nideck: folds 
+Uncalled bet (1665) returned to wttomi
+wttomi collected 1150 from pot
+wttomi: doesn't show hand 
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 3: nickyb123 (button) folded before Flop (didn't bet)
+Seat 4: färberweg71 (small blind) folded before Flop
+Seat 5: nideck (big blind) folded before Flop
+Seat 8: tuborg123456 folded before Flop (didn't bet)
+Seat 9: wttomi collected (1150)
+
+
+
+PokerStars Hand #255649098115: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level X (300/600) - 2025/04/08 18:21:02 WET [2025/04/08 13:21:02 ET]
+Table '3877252684 1' 9-max Seat #4 is the button
+Seat 1: LucaoPAP (1702 in chips) 
+Seat 3: nickyb123 (5846 in chips) 
+Seat 4: färberweg71 (737 in chips) 
+Seat 5: nideck (8719 in chips) 
+Seat 8: tuborg123456 (5681 in chips) 
+Seat 9: wttomi (2815 in chips) 
+LucaoPAP: posts the ante 50
+nickyb123: posts the ante 50
+färberweg71: posts the ante 50
+nideck: posts the ante 50
+tuborg123456: posts the ante 50
+wttomi: posts the ante 50
+nideck: posts small blind 300
+tuborg123456: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nickyb123 [6c 3c]
+wttomi: folds 
+LucaoPAP: folds 
+nickyb123: folds 
+färberweg71: folds 
+nideck: raises 8069 to 8669 and is all-in
+tuborg123456: folds 
+Uncalled bet (8069) returned to nideck
+nideck collected 1500 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: färberweg71 (button) folded before Flop (didn't bet)
+Seat 5: nideck (small blind) collected (1500)
+Seat 8: tuborg123456 (big blind) folded before Flop
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255649101417: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level X (300/600) - 2025/04/08 18:21:17 WET [2025/04/08 13:21:17 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 1: LucaoPAP (1652 in chips) 
+Seat 3: nickyb123 (5796 in chips) 
+Seat 4: färberweg71 (687 in chips) 
+Seat 5: nideck (9569 in chips) 
+Seat 8: tuborg123456 (5031 in chips) 
+Seat 9: wttomi (2765 in chips) 
+LucaoPAP: posts the ante 50
+nickyb123: posts the ante 50
+färberweg71: posts the ante 50
+nideck: posts the ante 50
+tuborg123456: posts the ante 50
+wttomi: posts the ante 50
+tuborg123456: posts small blind 300
+wttomi: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nickyb123 [Js 2h]
+LucaoPAP: folds 
+nickyb123: folds 
+färberweg71: folds 
+nideck: raises 8919 to 9519 and is all-in
+tuborg123456: folds 
+wttomi: folds 
+Uncalled bet (8919) returned to nideck
+nideck collected 1800 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Seat 1: LucaoPAP folded before Flop (didn't bet)
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck (button) collected (1800)
+Seat 8: tuborg123456 (small blind) folded before Flop
+Seat 9: wttomi (big blind) folded before Flop
+
+
+
+PokerStars Hand #255649105281: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level X (300/600) - 2025/04/08 18:21:34 WET [2025/04/08 13:21:34 ET]
+Table '3877252684 1' 9-max Seat #8 is the button
+Seat 1: LucaoPAP (1602 in chips) 
+Seat 3: nickyb123 (5746 in chips) 
+Seat 4: färberweg71 (637 in chips) 
+Seat 5: nideck (10719 in chips) 
+Seat 8: tuborg123456 (4681 in chips) 
+Seat 9: wttomi (2115 in chips) 
+LucaoPAP: posts the ante 50
+nickyb123: posts the ante 50
+färberweg71: posts the ante 50
+nideck: posts the ante 50
+tuborg123456: posts the ante 50
+wttomi: posts the ante 50
+wttomi: posts small blind 300
+LucaoPAP: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nickyb123 [Ts 8s]
+nickyb123: folds 
+färberweg71: calls 587 and is all-in
+nideck: folds 
+tuborg123456: folds 
+wttomi: folds 
+Uncalled bet (13) returned to LucaoPAP
+*** FLOP *** [Kh 8c Td]
+*** TURN *** [Kh 8c Td] [7c]
+*** RIVER *** [Kh 8c Td 7c] [5d]
+*** SHOW DOWN ***
+LucaoPAP: shows [Js 4c] (high card King)
+färberweg71: shows [As 4s] (high card Ace)
+färberweg71 collected 1774 from pot
+*** SUMMARY ***
+Total pot 1774 | Rake 0 
+Board [Kh 8c Td 7c 5d]
+Seat 1: LucaoPAP (big blind) showed [Js 4c] and lost with high card King
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: färberweg71 showed [As 4s] and won (1774) with high card Ace
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 8: tuborg123456 (button) folded before Flop (didn't bet)
+Seat 9: wttomi (small blind) folded before Flop
+
+
+
+PokerStars Hand #255649111995: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level X (300/600) - 2025/04/08 18:22:04 WET [2025/04/08 13:22:04 ET]
+Table '3877252684 1' 9-max Seat #9 is the button
+Seat 1: LucaoPAP (965 in chips) 
+Seat 3: nickyb123 (5696 in chips) 
+Seat 4: färberweg71 (1774 in chips) 
+Seat 5: nideck (10669 in chips) 
+Seat 8: tuborg123456 (4631 in chips) 
+Seat 9: wttomi (1765 in chips) 
+LucaoPAP: posts the ante 50
+nickyb123: posts the ante 50
+färberweg71: posts the ante 50
+nideck: posts the ante 50
+tuborg123456: posts the ante 50
+wttomi: posts the ante 50
+LucaoPAP: posts small blind 300
+nickyb123: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nickyb123 [2d Ks]
+färberweg71: folds 
+nideck: folds 
+tuborg123456: folds 
+wttomi: folds 
+LucaoPAP: raises 315 to 915 and is all-in
+nickyb123: calls 315
+*** FLOP *** [Js Jd 6s]
+*** TURN *** [Js Jd 6s] [4d]
+*** RIVER *** [Js Jd 6s 4d] [5h]
+*** SHOW DOWN ***
+LucaoPAP: shows [Qc 2h] (a pair of Jacks)
+nickyb123: shows [2d Ks] (a pair of Jacks - King kicker)
+nickyb123 collected 2130 from pot
+LucaoPAP finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 2130 | Rake 0 
+Board [Js Jd 6s 4d 5h]
+Seat 1: LucaoPAP (small blind) showed [Qc 2h] and lost with a pair of Jacks
+Seat 3: nickyb123 (big blind) showed [2d Ks] and won (2130) with a pair of Jacks
+Seat 4: färberweg71 folded before Flop (didn't bet)
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 8: tuborg123456 folded before Flop (didn't bet)
+Seat 9: wttomi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255649117805: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level X (300/600) - 2025/04/08 18:22:30 WET [2025/04/08 13:22:30 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 3: nickyb123 (6861 in chips) 
+Seat 4: färberweg71 (1724 in chips) 
+Seat 5: nideck (10619 in chips) 
+Seat 8: tuborg123456 (4581 in chips) 
+Seat 9: wttomi (1715 in chips) 
+nickyb123: posts the ante 50
+färberweg71: posts the ante 50
+nideck: posts the ante 50
+tuborg123456: posts the ante 50
+wttomi: posts the ante 50
+färberweg71: posts small blind 300
+nideck: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nickyb123 [6c 2h]
+tuborg123456: folds 
+wttomi: raises 1065 to 1665 and is all-in
+nickyb123: folds 
+färberweg71: folds 
+nideck: calls 1065
+*** FLOP *** [Ts 2d 5h]
+*** TURN *** [Ts 2d 5h] [Qc]
+*** RIVER *** [Ts 2d 5h Qc] [Td]
+*** SHOW DOWN ***
+nideck: shows [Jc 3c] (a pair of Tens)
+wttomi: shows [8d 8c] (two pair, Tens and Eights)
+wttomi collected 3880 from pot
+*** SUMMARY ***
+Total pot 3880 | Rake 0 
+Board [Ts 2d 5h Qc Td]
+Seat 3: nickyb123 (button) folded before Flop (didn't bet)
+Seat 4: färberweg71 (small blind) folded before Flop
+Seat 5: nideck (big blind) showed [Jc 3c] and lost with a pair of Tens
+Seat 8: tuborg123456 folded before Flop (didn't bet)
+Seat 9: wttomi showed [8d 8c] and won (3880) with two pair, Tens and Eights
+
+
+
+PokerStars Hand #255649122059: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level X (300/600) - 2025/04/08 18:22:49 WET [2025/04/08 13:22:49 ET]
+Table '3877252684 1' 9-max Seat #4 is the button
+Seat 3: nickyb123 (6811 in chips) 
+Seat 4: färberweg71 (1374 in chips) 
+Seat 5: nideck (8904 in chips) 
+Seat 8: tuborg123456 (4531 in chips) 
+Seat 9: wttomi (3880 in chips) 
+nickyb123: posts the ante 50
+färberweg71: posts the ante 50
+nideck: posts the ante 50
+tuborg123456: posts the ante 50
+wttomi: posts the ante 50
+nideck: posts small blind 300
+tuborg123456: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nickyb123 [6h Ks]
+wttomi: folds 
+nickyb123: raises 600 to 1200
+färberweg71: folds 
+nideck: folds 
+tuborg123456: folds 
+Uncalled bet (600) returned to nickyb123
+nickyb123 collected 1750 from pot
+nickyb123: doesn't show hand 
+*** SUMMARY ***
+Total pot 1750 | Rake 0 
+Seat 3: nickyb123 collected (1750)
+Seat 4: färberweg71 (button) folded before Flop (didn't bet)
+Seat 5: nideck (small blind) folded before Flop
+Seat 8: tuborg123456 (big blind) folded before Flop
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255649127037: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level X (300/600) - 2025/04/08 18:23:11 WET [2025/04/08 13:23:11 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 3: nickyb123 (7911 in chips) 
+Seat 4: färberweg71 (1324 in chips) 
+Seat 5: nideck (8554 in chips) 
+Seat 8: tuborg123456 (3881 in chips) 
+Seat 9: wttomi (3830 in chips) 
+nickyb123: posts the ante 50
+färberweg71: posts the ante 50
+nideck: posts the ante 50
+tuborg123456: posts the ante 50
+wttomi: posts the ante 50
+tuborg123456: posts small blind 300
+wttomi: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nickyb123 [Kh 8c]
+nickyb123: folds 
+färberweg71: raises 674 to 1274 and is all-in
+nideck: raises 7230 to 8504 and is all-in
+tuborg123456: folds 
+wttomi: folds 
+Uncalled bet (7230) returned to nideck
+*** FLOP *** [9s 5h 6d]
+*** TURN *** [9s 5h 6d] [2c]
+*** RIVER *** [9s 5h 6d 2c] [2d]
+*** SHOW DOWN ***
+färberweg71: shows [Ts Ks] (a pair of Deuces)
+nideck: shows [As 3h] (a pair of Deuces - Ace kicker)
+nideck collected 3698 from pot
+färberweg71 finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 3698 | Rake 0 
+Board [9s 5h 6d 2c 2d]
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 4: färberweg71 showed [Ts Ks] and lost with a pair of Deuces
+Seat 5: nideck (button) showed [As 3h] and won (3698) with a pair of Deuces
+Seat 8: tuborg123456 (small blind) folded before Flop
+Seat 9: wttomi (big blind) folded before Flop
+
+
+
+PokerStars Hand #255649132725: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level X (300/600) - 2025/04/08 18:23:36 WET [2025/04/08 13:23:36 ET]
+Table '3877252684 1' 9-max Seat #8 is the button
+Seat 3: nickyb123 (7861 in chips) 
+Seat 5: nideck (10928 in chips) 
+Seat 8: tuborg123456 (3531 in chips) 
+Seat 9: wttomi (3180 in chips) 
+nickyb123: posts the ante 50
+nideck: posts the ante 50
+tuborg123456: posts the ante 50
+wttomi: posts the ante 50
+wttomi: posts small blind 300
+nickyb123: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nickyb123 [Ts 5s]
+nideck: folds 
+tuborg123456: raises 2881 to 3481 and is all-in
+wttomi: folds 
+nickyb123: folds 
+Uncalled bet (2881) returned to tuborg123456
+tuborg123456 collected 1700 from pot
+tuborg123456: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 3: nickyb123 (big blind) folded before Flop
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 8: tuborg123456 (button) collected (1700)
+Seat 9: wttomi (small blind) folded before Flop
+
+
+
+PokerStars Hand #255649139940: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level X (300/600) - 2025/04/08 18:24:07 WET [2025/04/08 13:24:07 ET]
+Table '3877252684 1' 9-max Seat #9 is the button
+Seat 3: nickyb123 (7211 in chips) 
+Seat 5: nideck (10878 in chips) 
+Seat 8: tuborg123456 (4581 in chips) 
+Seat 9: wttomi (2830 in chips) 
+nickyb123: posts the ante 50
+nideck: posts the ante 50
+tuborg123456: posts the ante 50
+wttomi: posts the ante 50
+nickyb123: posts small blind 300
+nideck: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nickyb123 [8c 5s]
+tuborg123456: folds 
+wttomi: raises 2180 to 2780 and is all-in
+nickyb123: folds 
+nideck: folds 
+Uncalled bet (2180) returned to wttomi
+wttomi collected 1700 from pot
+wttomi: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 3: nickyb123 (small blind) folded before Flop
+Seat 5: nideck (big blind) folded before Flop
+Seat 8: tuborg123456 folded before Flop (didn't bet)
+Seat 9: wttomi (button) collected (1700)
+
+
+
+PokerStars Hand #255649145707: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level X (300/600) - 2025/04/08 18:24:32 WET [2025/04/08 13:24:32 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 3: nickyb123 (6861 in chips) 
+Seat 5: nideck (10228 in chips) 
+Seat 8: tuborg123456 (4531 in chips) 
+Seat 9: wttomi (3880 in chips) 
+nickyb123: posts the ante 50
+nideck: posts the ante 50
+tuborg123456: posts the ante 50
+wttomi: posts the ante 50
+nideck: posts small blind 300
+tuborg123456: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nickyb123 [5h 4s]
+wttomi: folds 
+nickyb123: folds 
+nideck: raises 9578 to 10178 and is all-in
+tuborg123456: folds 
+Uncalled bet (9578) returned to nideck
+nideck collected 1400 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Seat 3: nickyb123 (button) folded before Flop (didn't bet)
+Seat 5: nideck (small blind) collected (1400)
+Seat 8: tuborg123456 (big blind) folded before Flop
+Seat 9: wttomi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255649150573: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level X (300/600) - 2025/04/08 18:24:53 WET [2025/04/08 13:24:53 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 3: nickyb123 (6811 in chips) 
+Seat 5: nideck (10978 in chips) 
+Seat 8: tuborg123456 (3881 in chips) 
+Seat 9: wttomi (3830 in chips) 
+nickyb123: posts the ante 50
+nideck: posts the ante 50
+tuborg123456: posts the ante 50
+wttomi: posts the ante 50
+tuborg123456: posts small blind 300
+wttomi: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nickyb123 [4c 6s]
+nickyb123: folds 
+nideck: raises 10328 to 10928 and is all-in
+tuborg123456: folds 
+wttomi: folds 
+Uncalled bet (10328) returned to nideck
+nideck collected 1700 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 3: nickyb123 folded before Flop (didn't bet)
+Seat 5: nideck (button) collected (1700)
+Seat 8: tuborg123456 (small blind) folded before Flop
+Seat 9: wttomi (big blind) folded before Flop
+
+
+
+PokerStars Hand #255649155360: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level X (300/600) - 2025/04/08 18:25:14 WET [2025/04/08 13:25:14 ET]
+Table '3877252684 1' 9-max Seat #8 is the button
+Seat 3: nickyb123 (6761 in chips) 
+Seat 5: nideck (12028 in chips) 
+Seat 8: tuborg123456 (3531 in chips) 
+Seat 9: wttomi (3180 in chips) 
+nickyb123: posts the ante 50
+nideck: posts the ante 50
+tuborg123456: posts the ante 50
+wttomi: posts the ante 50
+wttomi: posts small blind 300
+nickyb123: posts big blind 600
+*** HOLE CARDS ***
+Dealt to nickyb123 [8d Kh]
+nideck: folds 
+tuborg123456: raises 2881 to 3481 and is all-in
+wttomi: folds 
+nickyb123: calls 2881
+*** FLOP *** [Kd Qh 5d]
+*** TURN *** [Kd Qh 5d] [8h]
+*** RIVER *** [Kd Qh 5d 8h] [6d]
+*** SHOW DOWN ***
+nickyb123: shows [8d Kh] (two pair, Kings and Eights)
+tuborg123456: shows [Jh Ad] (high card Ace)
+nickyb123 collected 7462 from pot
+tuborg123456 finished the tournament in 4th place and received $39.35.
+*** SUMMARY ***
+Total pot 7462 | Rake 0 
+Board [Kd Qh 5d 8h 6d]
+Seat 3: nickyb123 (big blind) showed [8d Kh] and won (7462) with two pair, Kings and Eights
+Seat 5: nideck folded before Flop (didn't bet)
+Seat 8: tuborg123456 (button) showed [Jh Ad] and lost with high card Ace
+Seat 9: wttomi (small blind) folded before Flop
+
+
+
+PokerStars Hand #255649166040: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level XI (400/800) - 2025/04/08 18:26:01 WET [2025/04/08 13:26:01 ET]
+Table '3877252684 1' 9-max Seat #9 is the button
+Seat 3: nickyb123 (10692 in chips) 
+Seat 5: nideck (11978 in chips) 
+Seat 9: wttomi (2830 in chips) 
+nickyb123: posts the ante 50
+nideck: posts the ante 50
+wttomi: posts the ante 50
+nickyb123: posts small blind 400
+nideck: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nickyb123 [6h 2h]
+wttomi: raises 1980 to 2780 and is all-in
+nickyb123: folds 
+nideck: folds 
+Uncalled bet (1980) returned to wttomi
+wttomi collected 2150 from pot
+wttomi: doesn't show hand 
+*** SUMMARY ***
+Total pot 2150 | Rake 0 
+Seat 3: nickyb123 (small blind) folded before Flop
+Seat 5: nideck (big blind) folded before Flop
+Seat 9: wttomi (button) collected (2150)
+
+
+
+PokerStars Hand #255649169078: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level XI (400/800) - 2025/04/08 18:26:14 WET [2025/04/08 13:26:14 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 3: nickyb123 (10242 in chips) 
+Seat 5: nideck (11128 in chips) 
+Seat 9: wttomi (4130 in chips) 
+nickyb123: posts the ante 50
+nideck: posts the ante 50
+wttomi: posts the ante 50
+nideck: posts small blind 400
+wttomi: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nickyb123 [3h 7c]
+nickyb123: folds 
+nideck: raises 10278 to 11078 and is all-in
+wttomi: calls 3280 and is all-in
+Uncalled bet (6998) returned to nideck
+*** FLOP *** [5h 9s 2c]
+*** TURN *** [5h 9s 2c] [As]
+*** RIVER *** [5h 9s 2c As] [5d]
+*** SHOW DOWN ***
+nideck: shows [Tc Ah] (two pair, Aces and Fives)
+wttomi: shows [Qh 7s] (a pair of Fives)
+nideck collected 8310 from pot
+wttomi finished the tournament in 3rd place and received $78.71.
+*** SUMMARY ***
+Total pot 8310 | Rake 0 
+Board [5h 9s 2c As 5d]
+Seat 3: nickyb123 (button) folded before Flop (didn't bet)
+Seat 5: nideck (small blind) showed [Tc Ah] and won (8310) with two pair, Aces and Fives
+Seat 9: wttomi (big blind) showed [Qh 7s] and lost with a pair of Fives
+
+
+
+PokerStars Hand #255649175316: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level XI (400/800) - 2025/04/08 18:26:42 WET [2025/04/08 13:26:42 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 3: nickyb123 (10192 in chips) 
+Seat 5: nideck (15308 in chips) 
+nickyb123: posts the ante 50
+nideck: posts the ante 50
+nideck: posts small blind 400
+nickyb123: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nickyb123 [Jc 2h]
+nideck: calls 400
+nickyb123: checks 
+*** FLOP *** [6h 3h 5d]
+nickyb123: checks 
+nideck: bets 800
+nickyb123: folds 
+Uncalled bet (800) returned to nideck
+nideck collected 1700 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [6h 3h 5d]
+Seat 3: nickyb123 (big blind) folded on the Flop
+Seat 5: nideck (button) (small blind) collected (1700)
+
+
+
+PokerStars Hand #255649182015: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level XI (400/800) - 2025/04/08 18:27:11 WET [2025/04/08 13:27:11 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 3: nickyb123 (9342 in chips) 
+Seat 5: nideck (16158 in chips) 
+nickyb123: posts the ante 50
+nideck: posts the ante 50
+nickyb123: posts small blind 400
+nideck: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nickyb123 [9d 3s]
+nickyb123: folds 
+Uncalled bet (400) returned to nideck
+nideck collected 900 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 3: nickyb123 (button) (small blind) folded before Flop
+Seat 5: nideck (big blind) collected (900)
+
+
+
+PokerStars Hand #255649183818: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level XI (400/800) - 2025/04/08 18:27:20 WET [2025/04/08 13:27:20 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 3: nickyb123 (8892 in chips) 
+Seat 5: nideck (16608 in chips) 
+nickyb123: posts the ante 50
+nideck: posts the ante 50
+nideck: posts small blind 400
+nickyb123: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nickyb123 [Ts Jd]
+nideck: raises 800 to 1600
+nickyb123: calls 800
+*** FLOP *** [4s 8h 5d]
+nickyb123: checks 
+nideck: checks 
+*** TURN *** [4s 8h 5d] [3h]
+nickyb123: checks 
+nideck: checks 
+*** RIVER *** [4s 8h 5d 3h] [Qs]
+nickyb123: checks 
+nideck: checks 
+*** SHOW DOWN ***
+nickyb123: shows [Ts Jd] (high card Queen)
+nideck: shows [Jh Ks] (high card King)
+nideck collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Board [4s 8h 5d 3h Qs]
+Seat 3: nickyb123 (big blind) showed [Ts Jd] and lost with high card Queen
+Seat 5: nideck (button) (small blind) showed [Jh Ks] and won (3300) with high card King
+
+
+
+PokerStars Hand #255649190826: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level XI (400/800) - 2025/04/08 18:27:50 WET [2025/04/08 13:27:50 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 3: nickyb123 (7242 in chips) 
+Seat 5: nideck (18258 in chips) 
+nickyb123: posts the ante 50
+nideck: posts the ante 50
+nickyb123: posts small blind 400
+nideck: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nickyb123 [As 9h]
+nickyb123: raises 6392 to 7192 and is all-in
+nideck: folds 
+Uncalled bet (6392) returned to nickyb123
+nickyb123 collected 1700 from pot
+nickyb123: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 3: nickyb123 (button) (small blind) collected (1700)
+Seat 5: nideck (big blind) folded before Flop
+
+
+
+PokerStars Hand #255649193197: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level XI (400/800) - 2025/04/08 18:28:01 WET [2025/04/08 13:28:01 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 3: nickyb123 (8092 in chips) 
+Seat 5: nideck (17408 in chips) 
+nickyb123: posts the ante 50
+nideck: posts the ante 50
+nideck: posts small blind 400
+nickyb123: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nickyb123 [9s Qd]
+nideck: calls 400
+nickyb123: checks 
+*** FLOP *** [Ac 9c Jh]
+nickyb123: checks 
+nideck: checks 
+*** TURN *** [Ac 9c Jh] [Jc]
+nickyb123: bets 1700
+nideck: folds 
+Uncalled bet (1700) returned to nickyb123
+nickyb123 collected 1700 from pot
+nickyb123: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [Ac 9c Jh Jc]
+Seat 3: nickyb123 (big blind) collected (1700)
+Seat 5: nideck (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #255649202168: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level XI (400/800) - 2025/04/08 18:28:40 WET [2025/04/08 13:28:40 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 3: nickyb123 (8942 in chips) 
+Seat 5: nideck (16558 in chips) 
+nickyb123: posts the ante 50
+nideck: posts the ante 50
+nickyb123: posts small blind 400
+nideck: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nickyb123 [Jd 9c]
+nickyb123: raises 800 to 1600
+nideck: raises 14908 to 16508 and is all-in
+nickyb123: calls 7292 and is all-in
+Uncalled bet (7616) returned to nideck
+*** FLOP *** [9d 5c 5h]
+*** TURN *** [9d 5c 5h] [6d]
+*** RIVER *** [9d 5c 5h 6d] [Th]
+*** SHOW DOWN ***
+nideck: shows [2h As] (a pair of Fives)
+nickyb123: shows [Jd 9c] (two pair, Nines and Fives)
+nickyb123 collected 17884 from pot
+*** SUMMARY ***
+Total pot 17884 | Rake 0 
+Board [9d 5c 5h 6d Th]
+Seat 3: nickyb123 (button) (small blind) showed [Jd 9c] and won (17884) with two pair, Nines and Fives
+Seat 5: nideck (big blind) showed [2h As] and lost with a pair of Fives
+
+
+
+PokerStars Hand #255649206176: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level XI (400/800) - 2025/04/08 18:28:58 WET [2025/04/08 13:28:58 ET]
+Table '3877252684 1' 9-max Seat #5 is the button
+Seat 3: nickyb123 (17884 in chips) 
+Seat 5: nideck (7616 in chips) 
+nickyb123: posts the ante 50
+nideck: posts the ante 50
+nideck: posts small blind 400
+nickyb123: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nickyb123 [Qd Kh]
+nideck: calls 400
+nickyb123: checks 
+*** FLOP *** [Ac 7c 2c]
+nickyb123: checks 
+nideck: bets 800
+nickyb123: folds 
+Uncalled bet (800) returned to nideck
+nideck collected 1700 from pot
+nideck: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [Ac 7c 2c]
+Seat 3: nickyb123 (big blind) folded on the Flop
+Seat 5: nideck (button) (small blind) collected (1700)
+
+
+
+PokerStars Hand #255649211888: Tournament #3877252684, $23.15+$1.85 USD Hold'em No Limit - Level XI (400/800) - 2025/04/08 18:29:22 WET [2025/04/08 13:29:22 ET]
+Table '3877252684 1' 9-max Seat #3 is the button
+Seat 3: nickyb123 (17034 in chips) 
+Seat 5: nideck (8466 in chips) 
+nickyb123: posts the ante 50
+nideck: posts the ante 50
+nickyb123: posts small blind 400
+nideck: posts big blind 800
+*** HOLE CARDS ***
+Dealt to nickyb123 [2h Ah]
+nickyb123: raises 1600 to 2400
+nideck: raises 6016 to 8416 and is all-in
+nickyb123: calls 6016
+*** FLOP *** [7c 7d 7h]
+*** TURN *** [7c 7d 7h] [Kh]
+*** RIVER *** [7c 7d 7h Kh] [5h]
+*** SHOW DOWN ***
+nideck: shows [Jc Td] (three of a kind, Sevens)
+nickyb123: shows [2h Ah] (a flush, Ace high)
+nickyb123 collected 16932 from pot
+nideck finished the tournament in 2nd place and received $118.06.
+nickyb123 wins the tournament and receives $157.43 - congratulations!
+*** SUMMARY ***
+Total pot 16932 | Rake 0 
+Board [7c 7d 7h Kh 5h]
+Seat 3: nickyb123 (button) (small blind) showed [2h Ah] and won (16932) with a flush, Ace high
+Seat 5: nideck (big blind) showed [Jc Td] and lost with three of a kind, Sevens
+
+
+
