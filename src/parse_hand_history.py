@@ -3,22 +3,34 @@ from hand_evaluator import def_flush, def_pair
 
 def parse_hand_history(file_path):
     hands = []
-    current_hand = {}
+    current_hand = None  # Start with None to ensure proper initialization
     with open(file_path, 'r') as file:
         for line in file:
             line = line.strip()
-            # Start of a new hand
-            if line.startswith('PokerStars Hand'):
-                if current_hand:
+            # Check for the start of a new hand with a broader pattern
+            if 'PokerStars' in line and ('Hand' in line or 'Game' in line):
+                if current_hand is not None:  # Only append if current_hand exists
+                    # Ensure all required keys are present before appending
+                    if 'bets' not in current_hand:
+                        current_hand['bets'] = 0
+                    if 'winnings' not in current_hand:
+                        current_hand['winnings'] = 0
+                    if 'position' not in current_hand:
+                        current_hand['position'] = ''
+                    if 'hole_cards' not in current_hand:
+                        current_hand['hole_cards'] = ''
                     hands.append(current_hand)
+                # Initialize new hand
+                hand_id = line.split('#')[1].split(':')[0] if '#' in line else line.split()[-1]
                 current_hand = {
-                    'hand_id': line.split('#')[1].split(':')[0],
+                    'hand_id': hand_id,
                     'bets': 0,
                     'winnings': 0,
                     'position': '',
                     'hole_cards': ''
                 }
-            # Identify position for nickyb123
+            if not current_hand:  # Skip if current_hand hasn't been initialized
+                continue
             if 'Seat' in line and 'nickyb123' in line:
                 if 'button' in line:
                     current_hand['position'] = 'Button'
@@ -28,30 +40,42 @@ def parse_hand_history(file_path):
                     current_hand['position'] = 'Big Blind'
                 else:
                     current_hand['position'] = 'Other'
-            # Capture hole cards for nickyb123
             if 'Dealt to nickyb123' in line:
                 current_hand['hole_cards'] = line.split('[')[1].split(']')[0]
-            # Capture bets (calls, raises, bets)
             if 'nickyb123:' in line and ('calls' in line or 'raises' in line or 'bets' in line):
                 words = line.split()
-                if words[-1] == 'all-in' and words[-3] == 'and':  # Handle "bets 895 and is all-in"
-                    amount = float(words[-4])
-                    current_hand['bets'] += amount
-                else:  # Handle regular bets like "calls 20"
-                    amount = float(words[-1])
-                    current_hand['bets'] += amount
-            # Capture winnings
+                try:
+                    if words[-1] == 'all-in' and words[-3] == 'and':  # Handle "bets 895 and is all-in"
+                        amount = float(words[-4])
+                        if 'bets' not in current_hand:  # Extra safeguard
+                            current_hand['bets'] = 0
+                        current_hand['bets'] += amount
+                    else:  # Handle regular bets like "calls 20"
+                        amount = float(words[-1])
+                        if 'bets' not in current_hand:  # Extra safeguard
+                            current_hand['bets'] = 0
+                        current_hand['bets'] += amount
+                except (ValueError, IndexError) as e:
+                    print(f"Error parsing bet in line: '{line}' - {e}")
+                    continue
             if 'nickyb123 collected' in line:
                 winnings_str = line.split('collected')[1].split('from')[0].strip()
                 winnings = float(winnings_str.strip('()'))
                 current_hand['winnings'] = winnings
-        # Append the last hand
-        if current_hand:
+        if current_hand is not None:  # Handle the last hand
+            if 'bets' not in current_hand:
+                current_hand['bets'] = 0
+            if 'winnings' not in current_hand:
+                current_hand['winnings'] = 0
+            if 'position' not in current_hand:
+                current_hand['position'] = ''
+            if 'hole_cards' not in current_hand:
+                current_hand['hole_cards'] = ''
             hands.append(current_hand)
     return hands
 
 # Parse the hand history file
-hands_data = parse_hand_history('hand_history.txt')
+hands_data = parse_hand_history('hand_history2.txt')
 df = pd.DataFrame(hands_data)
 
 # Convert hole cards to a list format for evaluation
