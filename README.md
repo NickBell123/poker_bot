@@ -4,7 +4,7 @@ Building a poker bot to analyze hand history and improve gameplay—part of Code
 ## Goals
 - Parse poker hand history (.txt files) using Pandas.
 - Analyze win rates, betting patterns, and position-based performance.
-- Develop decision logic for automated play.
+
 
 ## Setup
 1. Clone the repo: `git clone https://github.com/NickBell123/Poker-Bot.git`
