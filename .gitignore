@@ -5,3 +5,4 @@ venv/
 *.csv
 __pycache__/
 *.ipynb
+docs/ai_progress_update_private.md
