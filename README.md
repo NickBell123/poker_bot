@@ -11,3 +11,5 @@ Building a poker bot to analyze hand history and improve gameplay—part of Code
 2. Set up a virtual environment: `python -m venv venv`
 3. Activate: `.\venv\Scripts\activate` (Windows)
 4. Install dependencies: `pip install pandas`
+
+- See my learning journey: [AI Progress Update](docs/ai_progress_update.md)
